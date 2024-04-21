@@ -1,168 +1,168 @@
 Character,Substat
-Acheron,CRIT DMG
 Acheron,ATK%
-Acheron,SPD
+Acheron,CRIT DMG
 Acheron,CRIT Rate
-Argenti,CRIT DMG
+Acheron,SPD
 Argenti,ATK%
-Argenti,SPD
+Argenti,CRIT DMG
 Argenti,CRIT Rate
-Arlan,CRIT DMG
+Argenti,SPD
 Arlan,ATK%
-Arlan,SPD
+Arlan,CRIT DMG
 Arlan,CRIT Rate
+Arlan,SPD
 Asta,SPD
 Aventurine,CRIT DMG
+Aventurine,CRIT Rate
+Aventurine,DEF%
 Aventurine,Effect Res
 Aventurine,SPD
-Aventurine,DEF%
-Aventurine,CRIT Rate
-Bailu,SPD
-Bailu,HP%
 Bailu,DEF%
-Black Swan,Break Effect
+Bailu,HP%
+Bailu,SPD
 Black Swan,ATK%
+Black Swan,Break Effect
 Black Swan,SPD
 Blade,CRIT DMG
-Blade,SPD
-Blade,HP%
 Blade,CRIT Rate
+Blade,HP%
+Blade,SPD
 Bronya,CRIT DMG
 Bronya,SPD
-Clara,CRIT DMG
 Clara,ATK%
-Clara,SPD
+Clara,CRIT DMG
 Clara,CRIT Rate
-Dan Heng,CRIT DMG
+Clara,SPD
 Dan Heng,ATK%
-Dan Heng,SPD
+Dan Heng,CRIT DMG
 Dan Heng,CRIT Rate
-Dr. Ratio,CRIT DMG
+Dan Heng,SPD
+Dan Heng • Imbibitor Lunae,ATK%
+Dan Heng • Imbibitor Lunae,CRIT DMG
+Dan Heng • Imbibitor Lunae,CRIT Rate
+Dan Heng • Imbibitor Lunae,SPD
 Dr. Ratio,ATK%
-Dr. Ratio,SPD
+Dr. Ratio,CRIT DMG
 Dr. Ratio,CRIT Rate
-Fu Xuan,SPD
-Fu Xuan,HP%
+Dr. Ratio,SPD
 Fu Xuan,DEF%
-Gallagher,Effect Res
+Fu Xuan,HP%
+Fu Xuan,SPD
 Gallagher,Break Effect
-Gallagher,SPD
-Gallagher,HP%
 Gallagher,DEF%
-Gepard,SPD
-Gepard,HP%
+Gallagher,Effect Res
+Gallagher,HP%
+Gallagher,SPD
 Gepard,DEF%
-Guinaifen,Break Effect
+Gepard,HP%
+Gepard,SPD
 Guinaifen,ATK%
-Guinaifen,SPD
-Guinaifen,HP%
+Guinaifen,Break Effect
 Guinaifen,DEF%
+Guinaifen,HP%
+Guinaifen,SPD
 Hanya,Break Effect
 Hanya,SPD
-Herta,CRIT DMG
 Herta,ATK%
-Herta,SPD
+Herta,CRIT DMG
 Herta,CRIT Rate
-Himeko,CRIT DMG
+Herta,SPD
 Himeko,ATK%
-Himeko,SPD
+Himeko,CRIT DMG
 Himeko,CRIT Rate
-Hook,CRIT DMG
+Himeko,SPD
 Hook,ATK%
-Hook,SPD
+Hook,CRIT DMG
 Hook,CRIT Rate
-Huohuo,SPD
-Huohuo,HP%
+Hook,SPD
 Huohuo,DEF%
-Dan Heng • Imbibitor Lunae,CRIT DMG
-Dan Heng • Imbibitor Lunae,ATK%
-Dan Heng • Imbibitor Lunae,SPD
-Dan Heng • Imbibitor Lunae,CRIT Rate
-Jing Yuan,CRIT DMG
+Huohuo,HP%
+Huohuo,SPD
 Jing Yuan,ATK%
-Jing Yuan,SPD
+Jing Yuan,CRIT DMG
 Jing Yuan,CRIT Rate
-Jingliu,CRIT DMG
+Jing Yuan,SPD
 Jingliu,ATK%
-Jingliu,SPD
+Jingliu,CRIT DMG
 Jingliu,CRIT Rate
-Kafka,Break Effect
+Jingliu,SPD
 Kafka,ATK%
+Kafka,Break Effect
 Kafka,SPD
-Luka,Break Effect
 Luka,ATK%
+Luka,Break Effect
 Luka,SPD
 Luocha,ATK%
-Luocha,SPD
-Luocha,HP%
 Luocha,DEF%
-Lynx,SPD
-Lynx,HP%
+Luocha,HP%
+Luocha,SPD
 Lynx,DEF%
-March 7th,SPD
-March 7th,HP%
+Lynx,HP%
+Lynx,SPD
 March 7th,DEF%
-Misha,CRIT DMG
+March 7th,HP%
+March 7th,SPD
 Misha,ATK%
-Misha,SPD
+Misha,CRIT DMG
 Misha,CRIT Rate
-Natasha,SPD
-Natasha,HP%
+Misha,SPD
 Natasha,DEF%
+Natasha,HP%
+Natasha,SPD
 Pela,SPD
-Qingque,CRIT DMG
 Qingque,ATK%
-Qingque,SPD
+Qingque,CRIT DMG
 Qingque,CRIT Rate
+Qingque,SPD
 Ruan Mei,Break Effect
-Ruan Mei,SPD
-Ruan Mei,HP%
 Ruan Mei,DEF%
-Sampo,Break Effect
+Ruan Mei,HP%
+Ruan Mei,SPD
 Sampo,ATK%
+Sampo,Break Effect
 Sampo,SPD
-Seele,CRIT DMG
 Seele,ATK%
+Seele,CRIT DMG
 Seele,CRIT Rate
-Serval,CRIT DMG
 Serval,ATK%
-Serval,SPD
+Serval,CRIT DMG
 Serval,CRIT Rate
+Serval,SPD
 Silver Wolf,Break Effect
 Silver Wolf,SPD
 Sparkle,CRIT DMG
 Sparkle,SPD
-Sushang,CRIT DMG
-Sushang,Break Effect
 Sushang,ATK%
-Sushang,SPD
+Sushang,Break Effect
+Sushang,CRIT DMG
 Sushang,CRIT Rate
+Sushang,SPD
 Tingyun,ATK%
 Tingyun,SPD
-Topaz & Numby,CRIT DMG
 Topaz & Numby,ATK%
-Topaz & Numby,SPD
+Topaz & Numby,CRIT DMG
 Topaz & Numby,CRIT Rate
-Trailblazer (Fire),Effect Res
-Trailblazer (Fire),HP%
+Topaz & Numby,SPD
 Trailblazer (Fire),DEF%
 Trailblazer (Fire),Effect Hit Rate
-Trailblazer (Physical),CRIT DMG
-Trailblazer (Physical),Break Effect
+Trailblazer (Fire),Effect Res
+Trailblazer (Fire),HP%
 Trailblazer (Physical),ATK%
-Trailblazer (Physical),SPD
+Trailblazer (Physical),Break Effect
+Trailblazer (Physical),CRIT DMG
 Trailblazer (Physical),CRIT Rate
-Welt,CRIT DMG
+Trailblazer (Physical),SPD
 Welt,ATK%
-Welt,SPD
+Welt,CRIT DMG
 Welt,CRIT Rate
-Xueyi,CRIT DMG
-Xueyi,Break Effect
+Welt,SPD
 Xueyi,ATK%
-Xueyi,SPD
+Xueyi,Break Effect
+Xueyi,CRIT DMG
 Xueyi,CRIT Rate
-Yanqing,CRIT DMG
+Xueyi,SPD
 Yanqing,ATK%
-Yanqing,SPD
+Yanqing,CRIT DMG
 Yanqing,CRIT Rate
+Yanqing,SPD
 Yukong,SPD

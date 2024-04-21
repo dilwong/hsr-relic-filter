@@ -1,0 +1,49 @@
+Character,Substat INFO
+Acheron,"SPD (breakpoint if you play 134+ Acheron; with Sparkle, fully ignore Speed) > CRIT RATE = CRIT DMG > ATK%"
+Argenti,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Arlan,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Asta,SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If using Broken Keel)
+Aventurine,DEF% (aim for 4k) >= SPD > CRIT DMG > CRIT RATE > Effect RES
+Bailu,SPD (breakpoint) > HP% > EFF RES% = DEF%
+Black Swan,EHR (Until 100-120%) > SPD (Until breakpoint) > ATK% > Break Effect
+Blade,SPD (breakpoint) > CRIT RATE = CRIT DMG > HP%
+Bronya,SPD (Until breakpoint) > CRIT DMG% > HP = DEF > EFF RES% (30% If Keel)
+Clara,SPD (breakpoint if desired) = CRIT RATE = CRIT DMG > ATK%
+Dan Heng,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
+Dr. Ratio,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Fu Xuan,SPD (breakpoint) = HP% >= DEF% > EFF RES%
+Gallagher,SPD (as much as possible) > Break Effect % (up to 150%) > Effect RES% > HP% = DEF%
+Gepard,SPD (breakpoint) = DEF% > HP% = EFF RES%
+Guinaifen,EHR (67%) > SPD (breakpoint) > ATK% > HP% = DEF% = Break Effect %
+Hanya,SPD > HP = DEF > Break Effect = EFF RES% (30% If using Broken Keel)
+Herta,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
+Himeko,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
+Hook,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Huohuo,SPD (breakpoint) > HP% > EFF RES% = DEF%
+Dan Heng • Imbibitor Lunae,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK% 
+Jing Yuan,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
+Jingliu,SPD (breakpoint) > CRIT RATE (until 50%) = CRIT DMG > ATK%
+Kafka,SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect
+Luka,SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK% 
+Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
+Lynx,SPD (breakpoint) > HP% > EFF RES% = DEF%
+March 7th,EHR (Until 64% OR skip if no freeze build) = SPD (breakpoint) > DEF% > HP% = EFF RES%
+Misha,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Natasha,SPD (breakpoint) > HP% > EFF RES% = DEF%
+Pela,EHR% (Until cap) = SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If Keel)
+Qingque,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Ruan Mei,BREAK EFFECT% (Until 180%) > SPD (Until Breakpoint) > BREAK EFFECT% > HP% = DEF% > EFF RES% (30% if using Broken Keel)
+Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
+Seele,CRIT RATE = CRIT DMG > ATK%
+Serval,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Silver Wolf,EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
+Sparkle,SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = EFF RES% (30% if using Broken Keel)
+Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
+Tingyun,SPD (Until Breakpoint) = ATK% (Until Recommended) > HP = DEF > EFF RES% (30% if using Broken Keel)
+Topaz & Numby,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Trailblazer (Fire),Effect RES until 30% (if running Broken Keel) > Speed > DEF% > HP% > Effect Hit Rate
+Trailblazer (Physical),SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
+Welt,SPD (breakpoint) = EHR% (Until recommended) > CRIT RATE = CRIT DMG > ATK%
+Xueyi,SPD (breakpoint) > BREAK EFFECT% >= CRIT RATE = CRIT DMG > ATK%
+Yanqing,SPD (breakpoint) > CRIT RATE (Until soft cap) = CRIT DMG > ATK% > CRIT RATE (After soft cap)
+Yukong,SPD > HP = DEF > EFF RES% (30% if using Broken Keel)

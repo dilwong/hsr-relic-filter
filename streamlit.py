@@ -7,15 +7,20 @@ st.set_page_config(layout='wide')
 
 st.subheader('HSR Relic Filter Tool')
 
-st.text('''Instructions:
-         
+instruction_text = (
+    '''
     (1) Select a relic set.
-    (2) Select a main stat.
-    (3) (Optional) Filter by substats. Select "False" to ignore this option.
+    (2) Select a relic type.
+    (3) Select a main stat.
+    (4) (Optional) Filter by substats. Select "False" to ignore this option.
         Characters will be returned if they have a selected substat as their preferred substat.
-    (4) Characters are retrieved if they use this relic, according to prydwen.
+    (5) Characters are retrieved if they use this relic, according to prydwen.
         Click the character image icon to be redirected to the prydwen page for that character.
-        ''')
+    '''
+)
+
+with st.expander("See Instructions:"):
+    st.text(instruction_text)
 
 TABLE_FOLDER = 'tables/'
 
@@ -29,12 +34,16 @@ def load_tables():
     relics_to_imgs = pd.read_csv(f'{TABLE_FOLDER}relics_to_imgs.csv')
     relics_to_desc = pd.read_csv(f'{TABLE_FOLDER}relics_to_desc.csv')
     piece_to_main_stat = pd.read_csv(f'{TABLE_FOLDER}piece_to_main_stat.csv')
+    characters_to_substat_desc = pd.read_csv(f'{TABLE_FOLDER}characters_to_substat_desc.csv')
 
     characters_to_imgs.index = characters_to_imgs['Character']
     characters_to_imgs = characters_to_imgs['IMG']
 
     characters_to_urls.index = characters_to_urls['Character']
     characters_to_urls = characters_to_urls['URL']
+
+    characters_to_substat_desc.index = characters_to_substat_desc['Character']
+    characters_to_substat_desc = characters_to_substat_desc['Substat INFO']
 
     relics_to_imgs.index = relics_to_imgs['Relic Set']
     relics_to_imgs = relics_to_imgs['IMG']
@@ -50,7 +59,8 @@ def load_tables():
         characters_to_relics, # pd.DataFrame
         relics_to_imgs, # pd.Series
         relics_to_desc, # pd.Series
-        piece_to_main_stat # pd.DataFrame
+        piece_to_main_stat, # pd.DataFrame
+        characters_to_substat_desc # pd.Series
     )
 
 (
@@ -58,7 +68,8 @@ def load_tables():
     characters_to_substats, characters_to_main_stats,
     characters_to_relics,
     relics_to_imgs, relics_to_desc,
-    piece_to_main_stat
+    piece_to_main_stat,
+    characters_to_substat_desc
 ) = load_tables()
 
 col1, col2, col3, col4 = st.columns(4)
@@ -75,8 +86,18 @@ with col2:
     for relic_desc in relics_to_desc[relic].split('\n'):
         st.markdown(relic_desc)
     
-    all_main_stats = [main_stat for main_stat in piece_to_main_stat['Main Stat'].unique() if main_stat not in ['HP', 'ATK']]
-    main_stat = st.radio('Select a main stat:', all_main_stats)
+    relic_piece = st.radio('Select a relic piece:', ['Body', 'Feet', 'Planar Sphere', 'Link Rope', 'Any'])
+
+    if relic_piece == 'Any':
+        main_stat_filter = slice(None)
+    else:
+        main_stat_filter = piece_to_main_stat['Relic Piece'] == relic_piece
+    possible_main_stats = [
+        main_stat
+        for main_stat in piece_to_main_stat[main_stat_filter]['Main Stat'].unique()
+        if main_stat not in ['HP', 'ATK']
+    ]
+    main_stat = st.radio('Select a main stat:', possible_main_stats)
 
 with col3:
     filter_substat = st.radio('Filter by substats:', [True, False], index=1)
@@ -89,7 +110,9 @@ with col3:
         if allow_substat:
             substat_set.add(substat)
     if len(substat_set) > 4:
-        st.text('Selected more than 4 substats!')
+        st.write('Selected more than 4 substats!')
+    if main_stat in substat_set:
+        st.write('You cannot have a substat that is the same as the main stat!')
 
 with col4:
     filtered_characters = characters_to_main_stats[characters_to_main_stats['Main Stat'] == main_stat]['Character']
@@ -117,4 +140,4 @@ with col4:
         character_img_url = f'{urljoin(url, characters_to_imgs[character])}'
         character_url = f'{urljoin(url, characters_to_urls[character])}'
         st.markdown(f'<a href={character_url}><img src="{character_img_url}" width="100" height="100"></a>', unsafe_allow_html=True)
-        st.text('\n')
+        st.text(f'Substats: {characters_to_substat_desc[character]}')
