@@ -132,7 +132,11 @@ with col3:
         st.write('You cannot have a substat that is the same as the main stat!')
 
 with col4:
-    filtered_characters = characters_to_main_stats[character_to_main_stat_filter]['Character']
+    if relic_piece in {'Head', 'Hands', 'Any'}:
+        filtered_characters = characters_to_main_stats[character_to_main_stat_filter]['Character']
+    else:
+        character_to_piece_filter = (characters_to_main_stats['Relic Piece'] == relic_piece)
+        filtered_characters = characters_to_main_stats[character_to_main_stat_filter & character_to_piece_filter]['Character']
     if not ignore_set:
         filtered_characters = filtered_characters[
             filtered_characters.isin(
