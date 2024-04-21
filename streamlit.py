@@ -10,7 +10,7 @@ st.subheader('HSR Relic Filter Tool')
 instruction_text = (
     '''
     (1) Select a relic set.
-    (2) Select a relic type.
+    (2) Select a relic piece.
     (3) Select a main stat.
     (4) (Optional) Filter by substats. Select "False" to ignore this option.
         Characters will be returned if they have a selected substat as their preferred substat.
@@ -83,21 +83,38 @@ with col2:
     st.subheader(relic)
     relic_img_url = f'{urljoin(url, relics_to_imgs[relic])}'
     st.markdown(f'![{relic}]({relic_img_url})')
-    for relic_desc in relics_to_desc[relic].split('\n'):
-        st.markdown(relic_desc)
+    relic_desc = relics_to_desc[relic].split('\n')
+    for relic_info_text in relic_desc:
+        st.markdown(relic_info_text)
     
-    relic_piece = st.radio('Select a relic piece:', ['Body', 'Feet', 'Planar Sphere', 'Link Rope', 'Any'])
-
-    if relic_piece == 'Any':
-        main_stat_filter = slice(None)
+    if len(relic_desc) == 1: # Planar ornaments
+        possible_pieces = ['Planar Sphere', 'Link Rope', 'Any']
+    elif len(relic_desc) == 2: # Cavern relics
+        possible_pieces = ['Body', 'Feet', 'Head', 'Hands', 'Any']
     else:
-        main_stat_filter = piece_to_main_stat['Relic Piece'] == relic_piece
-    possible_main_stats = [
-        main_stat
-        for main_stat in piece_to_main_stat[main_stat_filter]['Main Stat'].unique()
-        if main_stat not in ['HP', 'ATK']
-    ]
-    main_stat = st.radio('Select a main stat:', possible_main_stats)
+        possible_pieces = ['Body', 'Feet', 'Planar Sphere', 'Link Rope', 'Head', 'Hands', 'Any']
+    relic_piece = st.radio('Select a relic piece:', possible_pieces, index=len(possible_pieces)-1)
+
+    main_stat = None
+    if relic_piece == 'Any':
+        piece_to_main_stat_filter = slice(None)
+    elif relic_piece == 'Head':
+        main_stat = 'HP'
+    elif relic_piece == 'Hands':
+        main_stat = 'ATK'
+    else:
+        piece_to_main_stat_filter = (piece_to_main_stat['Relic Piece'] == relic_piece)
+
+    if main_stat is None:
+        possible_main_stats = [
+            main_stat
+            for main_stat in piece_to_main_stat[piece_to_main_stat_filter]['Main Stat'].unique()
+        ]
+        main_stat = st.radio('Select a main stat:', possible_main_stats)
+        character_to_main_stat_filter = (characters_to_main_stats['Main Stat'] == main_stat)
+    else:
+        st.write(f'The main stat is {main_stat}.')
+        character_to_main_stat_filter = slice(None)
 
 with col3:
     filter_substat = st.radio('Filter by substats:', [True, False], index=1)
@@ -115,7 +132,7 @@ with col3:
         st.write('You cannot have a substat that is the same as the main stat!')
 
 with col4:
-    filtered_characters = characters_to_main_stats[characters_to_main_stats['Main Stat'] == main_stat]['Character']
+    filtered_characters = characters_to_main_stats[character_to_main_stat_filter]['Character']
     if not ignore_set:
         filtered_characters = filtered_characters[
             filtered_characters.isin(

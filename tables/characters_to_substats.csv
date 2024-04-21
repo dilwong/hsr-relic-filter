@@ -11,6 +11,9 @@ Arlan,ATK%
 Arlan,CRIT DMG
 Arlan,CRIT Rate
 Arlan,SPD
+Asta,DEF%
+Asta,Effect Res
+Asta,HP%
 Asta,SPD
 Aventurine,CRIT DMG
 Aventurine,CRIT Rate
@@ -18,16 +21,21 @@ Aventurine,DEF%
 Aventurine,Effect Res
 Aventurine,SPD
 Bailu,DEF%
+Bailu,Effect Res
 Bailu,HP%
 Bailu,SPD
 Black Swan,ATK%
 Black Swan,Break Effect
+Black Swan,Effect Hit Rate
 Black Swan,SPD
 Blade,CRIT DMG
 Blade,CRIT Rate
 Blade,HP%
 Blade,SPD
 Bronya,CRIT DMG
+Bronya,DEF%
+Bronya,Effect Res
+Bronya,HP%
 Bronya,SPD
 Clara,ATK%
 Clara,CRIT DMG
@@ -46,6 +54,7 @@ Dr. Ratio,CRIT DMG
 Dr. Ratio,CRIT Rate
 Dr. Ratio,SPD
 Fu Xuan,DEF%
+Fu Xuan,Effect Res
 Fu Xuan,HP%
 Fu Xuan,SPD
 Gallagher,Break Effect
@@ -54,14 +63,19 @@ Gallagher,Effect Res
 Gallagher,HP%
 Gallagher,SPD
 Gepard,DEF%
+Gepard,Effect Res
 Gepard,HP%
 Gepard,SPD
 Guinaifen,ATK%
 Guinaifen,Break Effect
 Guinaifen,DEF%
+Guinaifen,Effect Hit Rate
 Guinaifen,HP%
 Guinaifen,SPD
 Hanya,Break Effect
+Hanya,DEF%
+Hanya,Effect Res
+Hanya,HP%
 Hanya,SPD
 Herta,ATK%
 Herta,CRIT DMG
@@ -76,6 +90,7 @@ Hook,CRIT DMG
 Hook,CRIT Rate
 Hook,SPD
 Huohuo,DEF%
+Huohuo,Effect Res
 Huohuo,HP%
 Huohuo,SPD
 Jing Yuan,ATK%
@@ -88,18 +103,24 @@ Jingliu,CRIT Rate
 Jingliu,SPD
 Kafka,ATK%
 Kafka,Break Effect
+Kafka,Effect Hit Rate
 Kafka,SPD
 Luka,ATK%
 Luka,Break Effect
+Luka,Effect Hit Rate
 Luka,SPD
 Luocha,ATK%
 Luocha,DEF%
+Luocha,Effect Res
 Luocha,HP%
 Luocha,SPD
 Lynx,DEF%
+Lynx,Effect Res
 Lynx,HP%
 Lynx,SPD
 March 7th,DEF%
+March 7th,Effect Hit Rate
+March 7th,Effect Res
 March 7th,HP%
 March 7th,SPD
 Misha,ATK%
@@ -107,8 +128,13 @@ Misha,CRIT DMG
 Misha,CRIT Rate
 Misha,SPD
 Natasha,DEF%
+Natasha,Effect Res
 Natasha,HP%
 Natasha,SPD
+Pela,DEF%
+Pela,Effect Hit Rate
+Pela,Effect Res
+Pela,HP%
 Pela,SPD
 Qingque,ATK%
 Qingque,CRIT DMG
@@ -116,10 +142,12 @@ Qingque,CRIT Rate
 Qingque,SPD
 Ruan Mei,Break Effect
 Ruan Mei,DEF%
+Ruan Mei,Effect Res
 Ruan Mei,HP%
 Ruan Mei,SPD
 Sampo,ATK%
 Sampo,Break Effect
+Sampo,Effect Hit Rate
 Sampo,SPD
 Seele,ATK%
 Seele,CRIT DMG
@@ -129,8 +157,15 @@ Serval,CRIT DMG
 Serval,CRIT Rate
 Serval,SPD
 Silver Wolf,Break Effect
+Silver Wolf,DEF%
+Silver Wolf,Effect Hit Rate
+Silver Wolf,Effect Res
+Silver Wolf,HP%
 Silver Wolf,SPD
 Sparkle,CRIT DMG
+Sparkle,DEF%
+Sparkle,Effect Res
+Sparkle,HP%
 Sparkle,SPD
 Sushang,ATK%
 Sushang,Break Effect
@@ -138,6 +173,9 @@ Sushang,CRIT DMG
 Sushang,CRIT Rate
 Sushang,SPD
 Tingyun,ATK%
+Tingyun,DEF%
+Tingyun,Effect Res
+Tingyun,HP%
 Tingyun,SPD
 Topaz & Numby,ATK%
 Topaz & Numby,CRIT DMG
@@ -147,6 +185,7 @@ Trailblazer (Fire),DEF%
 Trailblazer (Fire),Effect Hit Rate
 Trailblazer (Fire),Effect Res
 Trailblazer (Fire),HP%
+Trailblazer (Fire),SPD
 Trailblazer (Physical),ATK%
 Trailblazer (Physical),Break Effect
 Trailblazer (Physical),CRIT DMG
@@ -155,6 +194,7 @@ Trailblazer (Physical),SPD
 Welt,ATK%
 Welt,CRIT DMG
 Welt,CRIT Rate
+Welt,Effect Hit Rate
 Welt,SPD
 Xueyi,ATK%
 Xueyi,Break Effect
@@ -165,4 +205,7 @@ Yanqing,ATK%
 Yanqing,CRIT DMG
 Yanqing,CRIT Rate
 Yanqing,SPD
+Yukong,DEF%
+Yukong,Effect Res
+Yukong,HP%
 Yukong,SPD

@@ -254,9 +254,9 @@ Topaz & Numby,Body,CRIT Rate
 Topaz & Numby,Body,CRIT DMG
 Topaz & Numby,Feet,SPD
 Topaz & Numby,Feet,ATK%
-Topaz & Numby,Planar Sphere,ATK
+Topaz & Numby,Planar Sphere,ATK%
 Topaz & Numby,Planar Sphere,Fire DMG Boost
-Topaz & Numby,Link Rope,ATK
+Topaz & Numby,Link Rope,ATK%
 Trailblazer (Fire),Body,DEF%
 Trailblazer (Fire),Feet,SPD
 Trailblazer (Fire),Feet,DEF%
