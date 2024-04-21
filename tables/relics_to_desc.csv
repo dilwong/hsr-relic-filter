@@ -1,0 +1,51 @@
+Relic Set,DESCRIPTION
+Band of Sizzling Thunder,"(2) Increases Lightning DMG by 10%.
+(4) When the wearer uses Skill, increases the wearer's ATK by 20% for 1 turn(s)."
+Belobog of the Architects,"(2) Increases the wearer's DEF by 15%. When the wearer's Effect Hit Rate is 50% or higher, the wearer gains an extra 15% DEF."
+Broken Keel,"(2) Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%."
+Celestial Differentiator,"(2) Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack."
+Champion of Streetwise Boxing,"(2) Increases Physical DMG by 10%.
+(4) After the wearer attacks or is hit, their ATK increases by 5% for the rest of the battle. This effect can stack up to 5 time(s)."
+Eagle of Twilight Line,"(2) Increases Wind DMG by 10%.
+(4) After the wearer uses Ultimate, their action is Advanced Forward by 25%."
+Firesmith of Lava-Forging,"(2) Increases Fire DMG by 10%.
+(4) Increases the wearer's Skill DMG by 12%. After unleashing Ultimate, increases the wearer's Fire DMG by 12% for next attack."
+Firmament Frontline: Glamoth,"(2) Increases the wearer's ATK by 12%. When the wearer's SPD is equal to or higher than 135/160, the wearer deals 12%/18% more DMG."
+Fleet of the Ageless,"(2) Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%."
+Genius of Brilliant Stars,"(2) Increases Quantum DMG by 10%.
+(4) When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF."
+Guard of Wuthering Snow,"(2) Reduces DMG taken by 8%.
+(4) At the beginning of the turn, if the wearer's HP is equal to or less than 50% of their Max HP, restores HP equal to 8% of their Max HP and regenerates 5 Energy."
+Hunter of Glacial Forest,"(2) Increases Ice DMG by 10%.
+(4) After the wearer unleashes their Ultimate, their CRIT DMG increases by 25% for 2 turn(s)."
+Inert Salsotto,"(2) Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 50% or higher, the wearer's Ultimate and follow-up attack DMG increases by 15%."
+Izumo Gensei and Takama Divine Realm,"(2) Increases the wearer's ATK by 12%. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%."
+Knight of Purity Palace,"(2) Increases DEF by 15%.
+(4) Increases the max DMG that can be absorbed by the shield created by the wearer by 20%."
+Longevous Disciple,"(2) Increases Max HP by 12%.
+(4) When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by 8% for 2 turn(s) and up to 2 stacks."
+Messenger Traversing Hackerspace,"(2) Increases SPD by 6%.
+(4) When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn(s). This effect cannot be stacked."
+Musketeer of Wild Wheat,"(2) ATK increases by 12%.
+(4) The wearer's SPD increases by 6% and Basic ATK DMG increases by 10%."
+Pan-Cosmic Commercial Enterprise,"(2) Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%."
+Passerby of Wandering Cloud,"(2) Increases Outgoing Healing by 10%.
+(4) At the beginning of the battle, immediately recovers 1 Skill Point."
+"Penacony, Land of the Dreams",(2) Increases wearer's Energy Regeneration Rate by 5%. Increases DMG for all other allies with the same DMG Type as the wearer by 10%.
+Pioneer Diver of Dead Waters,"(2) Increases DMG dealt to enemies with debuff by 12%.
+(4) Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn."
+Prisoner in Deep Confinement,"(2) Increases ATK by 12%.
+(4) For every DoT the target enemy is afflicted with, the wearer will ignore 6% of target's DEF when dealing DMG to them. This effect is valid for a max of 3 DoTs."
+Rutilant Arena,"(2) Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, the wearer's Basic ATK and Skill DMG increase by 20%."
+"Sigonia, the Unclaimed Desolation","(2) Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s)."
+Space Sealing Station,"(2) Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%."
+Sprightly Vonwacq,"(2) Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle."
+Talia: Kingdom of Banditry,"(2) Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break effect increases by an extra 20%."
+The Ashblazing Grand Duke,"(2) Increases follow-up attack DMG by 20%.
+(4) When the wearer uses follow-up attacks against the target enemy, increase the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack for a maximum of 8 times and lasts for 3 turns. This effect is removed the next time the wearer uses a follow-up attack."
+Thief of Shooting Meteor,"(2) Increases Break Effect by 16%
+(4) Increases the wearer's Break Effect by 16%. When the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy."
+Wastelander of Banditry Desert,"(2) Increases Imaginary DMG by 10%.
+(4) When attacking debuffed enemies, the wearer's CRIT Rate increases by 10%, and their CRIT DMG increases by 20% against Imprisoned enemies."
+"Watchmaker, Master of Dream Machinations","(2) Increases Break Effect by 16%.
+(4) When the wearer uses their Ultimate on an ally, Break Effect for all allies increases by 30% for 2 turn(s). This effect cannot be stacked."

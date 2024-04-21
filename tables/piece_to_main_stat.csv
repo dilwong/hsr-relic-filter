@@ -1,0 +1,30 @@
+Relic Piece,Main Stat
+Head,HP
+Hands,ATK
+Body,HP%
+Body,ATK%
+Body,DEF%
+Body,Effect Hit Rate
+Body,Outgoing Healing Boost
+Body,CRIT Rate
+Body,CRIT DMG
+Feet,HP%
+Feet,ATK%
+Feet,DEF%
+Feet,SPD
+Planar Sphere,HP%
+Planar Sphere,ATK%
+Planar Sphere,DEF%
+Planar Sphere,Physical DMG Boost
+Planar Sphere,Physical DMG Boost
+Planar Sphere,Fire DMG Boost
+Planar Sphere,Ice DMG Boost
+Planar Sphere,Wind DMG Boost
+Planar Sphere,Lightning DMG Boost
+Planar Sphere,Quantum DMG Boost
+Planar Sphere,Imaginary DMG Boost
+Link Rope,HP%
+Link Rope,ATK%
+Link Rope,DEF%
+Link Rope,Break Effect
+Link Rope,Energy Regeneration Rate
