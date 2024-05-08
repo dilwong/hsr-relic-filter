@@ -201,6 +201,12 @@ Qingque,Feet,SPD
 Qingque,Feet,ATK%
 Qingque,Planar Sphere,Quantum DMG Boost
 Qingque,Link Rope,ATK%
+Robin,Body,ATK%
+Robin,Feet,ATK%
+Robin,Feet,SPD
+Robin,Planar Sphere,ATK%
+Robin,Planar Sphere,Physical DMG Boost
+Robin,Link Rope,Energy Regeneration Rate
 Ruan Mei,Body,HP%
 Ruan Mei,Body,DEF%
 Ruan Mei,Feet,SPD

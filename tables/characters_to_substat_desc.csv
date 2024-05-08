@@ -32,6 +32,7 @@ Misha,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Natasha,SPD (breakpoint) > HP% > EFF RES% = DEF%
 Pela,EHR% (Until cap) = SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If Keel)
 Qingque,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Robin,ATK% >= SPD > HP% = DEF%
 Ruan Mei,BREAK EFFECT% (Until 180%) > SPD (Until Breakpoint) > BREAK EFFECT% > HP% = DEF% > EFF RES% (30% if using Broken Keel)
 Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
 Seele,CRIT RATE = CRIT DMG > ATK%
