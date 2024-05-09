@@ -270,6 +270,13 @@ Trailblazer (Fire),Planar Sphere,DEF%
 Trailblazer (Fire),Planar Sphere,Fire DMG Boost
 Trailblazer (Fire),Link Rope,Energy Regeneration Rate
 Trailblazer (Fire),Link Rope,DEF%
+Trailblazer (Imaginary),Body,HP%
+Trailblazer (Imaginary),Body,DEF%
+Trailblazer (Imaginary),Feet,SPD
+Trailblazer (Imaginary),Planar Sphere,HP%
+Trailblazer (Imaginary),Planar Sphere,DEF%
+Trailblazer (Imaginary),Link Rope,Break Effect
+Trailblazer (Imaginary),Link Rope,Energy Regeneration Rate
 Trailblazer (Physical),Body,CRIT Rate
 Trailblazer (Physical),Body,CRIT DMG
 Trailblazer (Physical),Feet,SPD

@@ -43,6 +43,7 @@ Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DM
 Tingyun,SPD (Until Breakpoint) = ATK% (Until Recommended) > HP = DEF > EFF RES% (30% if using Broken Keel)
 Topaz & Numby,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Trailblazer (Fire),Effect RES until 30% (if running Broken Keel) > Speed > DEF% > HP% > Effect Hit Rate
+Trailblazer (Imaginary),SPD = Break Effect% > HP% = DEF%
 Trailblazer (Physical),SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
 Welt,SPD (breakpoint) = EHR% (Until recommended) > CRIT RATE = CRIT DMG > ATK%
 Xueyi,SPD (breakpoint) > BREAK EFFECT% >= CRIT RATE = CRIT DMG > ATK%
