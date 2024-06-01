@@ -50,6 +50,10 @@ Blade,Feet,HP%
 Blade,Planar Sphere,Wind DMG Boost
 Blade,Planar Sphere,HP%
 Blade,Link Rope,HP%
+Boothill,Body,Anything
+Boothill,Feet,SPD
+Boothill,Planar Sphere,Anything
+Boothill,Link Rope,Break Effect
 Bronya,Body,CRIT DMG
 Bronya,Feet,SPD
 Bronya,Planar Sphere,HP%

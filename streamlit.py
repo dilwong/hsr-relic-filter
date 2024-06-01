@@ -132,6 +132,8 @@ with col3:
         st.write('You cannot have a substat that is the same as the main stat!')
 
 with col4:
+    if filter_substat and isinstance(character_to_main_stat_filter, pd.Series):
+        character_to_main_stat_filter = character_to_main_stat_filter | (characters_to_main_stats['Main Stat'] == 'Anything')
     if relic_piece in {'Head', 'Hands', 'Any'}:
         filtered_characters = characters_to_main_stats[character_to_main_stat_filter]['Character']
     else:
