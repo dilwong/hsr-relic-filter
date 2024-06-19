@@ -3,15 +3,16 @@ Acheron,"SPD (breakpoint if you play 134+ Acheron; with Sparkle, fully ignore Sp
 Argenti,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Arlan,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Asta,SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If using Broken Keel)
-Aventurine,DEF% (aim for 4k) >= SPD > CRIT DMG > CRIT RATE > Effect RES
+Aventurine,DEF% (aim for 4k) >= SPD > CRIT DMG > CRIT Rate > Effect RES
 Bailu,SPD (breakpoint) > HP% > EFF RES% = DEF%
 Black Swan,EHR (Until 100-120%) > SPD (Until breakpoint) > ATK% > Break Effect
 Blade,SPD (breakpoint) > CRIT RATE = CRIT DMG > HP%
 Boothill,SPD (Until breakpoint OR if you got nothing else to stack) >= Break Effect
-Bronya,SPD (Until breakpoint) > CRIT DMG% > HP = DEF > EFF RES% (30% If Keel)
+Bronya,SPD (Until breakpoint) > CRIT DMG > HP = DEF > Effect RES% (30% If Keel)
 Clara,SPD (breakpoint if desired) = CRIT RATE = CRIT DMG > ATK%
 Dan Heng,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Dr. Ratio,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Firefly,SPD (Until Breakpoint) > Break Effect% > ATK%
 Fu Xuan,SPD (breakpoint) = HP% >= DEF% > EFF RES%
 Gallagher,SPD (as much as possible) > Break Effect % (up to 150%) > Effect RES% > HP% = DEF%
 Gepard,SPD (breakpoint) = DEF% > HP% = EFF RES%
@@ -27,14 +28,14 @@ Jingliu,SPD (breakpoint) > CRIT RATE (until 50%) = CRIT DMG > ATK%
 Kafka,SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect
 Luka,SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK% 
 Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
-Lynx,SPD (breakpoint) > HP% > EFF RES% = DEF%
-March 7th,EHR (Until 64% OR skip if no freeze build) = SPD (breakpoint) > DEF% > HP% = EFF RES%
-Misha,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
-Natasha,SPD (breakpoint) > HP% > EFF RES% = DEF%
-Pela,EHR% (Until cap) = SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If Keel)
-Qingque,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Lynx,SPD (breakpoint) > HP% > Effect RES > DEF%
+March 7th,Effect Hit Rate (Until 64% OR skip if no Freeze build) = SPD (Breakpoint) > DEF% > HP% = Effect RES
+Misha,SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%
+Natasha,SPD (breakpoint) > HP% > Effect RES = DEF%
+Pela,Effect Hit Rate (Until 57%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)
+Qingque,SPD (breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Robin,ATK% >= SPD > HP% = DEF%
-Ruan Mei,BREAK EFFECT% (Until 180%) > SPD (Until Breakpoint) > BREAK EFFECT% > HP% = DEF% > EFF RES% (30% if using Broken Keel)
+Ruan Mei,Break Effect (Until 180%) > SPD (Until Breakpoint) > HP% = DEF% > Effect RES (30% if using Broken Keel)
 Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
 Seele,CRIT RATE = CRIT DMG > ATK%
 Serval,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
