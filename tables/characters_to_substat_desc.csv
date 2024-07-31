@@ -31,6 +31,7 @@ Luka,SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK%
 Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
 Lynx,SPD (breakpoint) > HP% > Effect RES > DEF%
 March 7th,Effect Hit Rate (Until 64% OR skip if no Freeze build) = SPD (Breakpoint) > DEF% > HP% = Effect RES
+March 7th • The Hunt,SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%
 Misha,SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Natasha,SPD (breakpoint) > HP% > Effect RES = DEF%
 Pela,Effect Hit Rate (Until 57%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)
@@ -52,3 +53,4 @@ Welt,SPD (breakpoint) = EHR% (Until recommended) > CRIT RATE = CRIT DMG > ATK%
 Xueyi,SPD (breakpoint) > BREAK EFFECT% >= CRIT RATE = CRIT DMG > ATK%
 Yanqing,SPD (breakpoint) > CRIT RATE (Until soft cap) = CRIT DMG > ATK% > CRIT RATE (After soft cap)
 Yukong,SPD > HP = DEF > EFF RES% (30% if using Broken Keel)
+Yunli,CRIT RATE = CRIT DMG > ATK%

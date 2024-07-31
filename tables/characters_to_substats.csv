@@ -132,6 +132,10 @@ March 7th,Effect Hit Rate
 March 7th,Effect Res
 March 7th,HP%
 March 7th,SPD
+March 7th • The Hunt,ATK%
+March 7th • The Hunt,CRIT DMG
+March 7th • The Hunt,CRIT Rate
+March 7th • The Hunt,SPD
 Misha,ATK%
 Misha,CRIT DMG
 Misha,CRIT Rate
@@ -226,3 +230,6 @@ Yukong,DEF%
 Yukong,Effect Res
 Yukong,HP%
 Yukong,SPD
+Yunli,ATK%
+Yunli,CRIT DMG
+Yunli,CRIT Rate

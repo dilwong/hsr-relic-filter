@@ -3,6 +3,7 @@ Acheron,Body,CRIT Rate
 Acheron,Body,CRIT DMG
 Acheron,Feet,ATK%
 Acheron,Feet,SPD
+Acheron,Planar Sphere,Lightning DMG Boost
 Acheron,Planar Sphere,ATK%
 Acheron,Link Rope,ATK%
 Argenti,Body,CRIT DMG
@@ -139,8 +140,8 @@ Huohuo,Planar Sphere,HP%
 Huohuo,Link Rope,Energy Regeneration Rate
 Dan Heng • Imbibitor Lunae,Body,CRIT DMG
 Dan Heng • Imbibitor Lunae,Body,CRIT Rate
-Dan Heng • Imbibitor Lunae,Feet,SPD
 Dan Heng • Imbibitor Lunae,Feet,ATK%
+Dan Heng • Imbibitor Lunae,Feet,SPD
 Dan Heng • Imbibitor Lunae,Planar Sphere,Imaginary DMG Boost
 Dan Heng • Imbibitor Lunae,Planar Sphere,ATK%
 Dan Heng • Imbibitor Lunae,Link Rope,ATK%
@@ -190,6 +191,13 @@ March 7th,Feet,SPD
 March 7th,Planar Sphere,DEF%
 March 7th,Link Rope,Energy Regeneration Rate
 March 7th,Link Rope,DEF%
+March 7th • The Hunt,Body,CRIT Rate
+March 7th • The Hunt,Body,CRIT DMG
+March 7th • The Hunt,Feet,SPD
+March 7th • The Hunt,Feet,ATK%
+March 7th • The Hunt,Planar Sphere,Imaginary DMG Boost
+March 7th • The Hunt,Planar Sphere,ATK%
+March 7th • The Hunt,Link Rope,ATK%
 Misha,Body,CRIT Rate
 Misha,Body,CRIT DMG
 Misha,Feet,SPD
@@ -322,3 +330,10 @@ Yukong,Feet,SPD
 Yukong,Planar Sphere,HP%
 Yukong,Planar Sphere,DEF%
 Yukong,Link Rope,Energy Regeneration Rate
+Yunli,Body,CRIT Rate
+Yunli,Body,CRIT DMG
+Yunli,Feet,ATK%
+Yunli,Planar Sphere,Physical DMG Boost
+Yunli,Planar Sphere,ATK%
+Yunli,Link Rope,ATK%
+Yunli,Link Rope,Energy Regeneration Rate
