@@ -1,82 +1,84 @@
 Character,Relic Piece,Main Stat
-Acheron,Body,CRIT Rate
 Acheron,Body,CRIT DMG
+Acheron,Body,CRIT Rate
 Acheron,Feet,ATK%
 Acheron,Feet,SPD
-Acheron,Planar Sphere,Lightning DMG Boost
 Acheron,Planar Sphere,ATK%
+Acheron,Planar Sphere,Lightning DMG Boost
 Acheron,Link Rope,ATK%
 Argenti,Body,CRIT DMG
 Argenti,Body,CRIT Rate
-Argenti,Feet,SPD
 Argenti,Feet,ATK%
-Argenti,Planar Sphere,Physical DMG Boost
+Argenti,Feet,SPD
 Argenti,Planar Sphere,ATK%
+Argenti,Planar Sphere,Physical DMG Boost
 Argenti,Link Rope,ATK%
-Arlan,Body,CRIT Rate
 Arlan,Body,CRIT DMG
-Arlan,Feet,SPD
+Arlan,Body,CRIT Rate
 Arlan,Feet,ATK%
-Arlan,Planar Sphere,Lightning DMG Boost
+Arlan,Feet,SPD
 Arlan,Planar Sphere,ATK%
+Arlan,Planar Sphere,Lightning DMG Boost
 Arlan,Link Rope,ATK%
-Asta,Body,HP%
 Asta,Body,DEF%
+Asta,Body,HP%
 Asta,Feet,SPD
-Asta,Planar Sphere,HP%
 Asta,Planar Sphere,DEF%
+Asta,Planar Sphere,HP%
 Asta,Link Rope,Energy Regeneration Rate
-Aventurine,Body,DEF%
 Aventurine,Body,CRIT DMG
-Aventurine,Feet,SPD
+Aventurine,Body,DEF%
 Aventurine,Feet,DEF%
+Aventurine,Feet,SPD
 Aventurine,Planar Sphere,DEF%
 Aventurine,Planar Sphere,Imaginary DMG Boost
 Aventurine,Link Rope,DEF%
-Bailu,Body,Outgoing Healing Boost
 Bailu,Body,HP%
+Bailu,Body,Outgoing Healing Boost
 Bailu,Feet,SPD
 Bailu,Planar Sphere,HP%
 Bailu,Link Rope,Energy Regeneration Rate
-Black Swan,Body,Effect Hit Rate
 Black Swan,Body,ATK%
+Black Swan,Body,Effect Hit Rate
 Black Swan,Feet,SPD
-Black Swan,Planar Sphere,Wind DMG Boost
 Black Swan,Planar Sphere,ATK%
+Black Swan,Planar Sphere,Wind DMG Boost
 Black Swan,Link Rope,ATK%
 Blade,Body,CRIT DMG
 Blade,Body,CRIT Rate
-Blade,Feet,SPD
 Blade,Feet,HP%
-Blade,Planar Sphere,Wind DMG Boost
+Blade,Feet,SPD
 Blade,Planar Sphere,HP%
+Blade,Planar Sphere,Wind DMG Boost
 Blade,Link Rope,HP%
 Boothill,Body,Anything
+Boothill,Body,CRIT Rate
 Boothill,Feet,SPD
 Boothill,Planar Sphere,Anything
+Boothill,Planar Sphere,Physical DMG Boost
 Boothill,Link Rope,Break Effect
 Bronya,Body,CRIT DMG
 Bronya,Feet,SPD
-Bronya,Planar Sphere,HP%
 Bronya,Planar Sphere,DEF%
+Bronya,Planar Sphere,HP%
 Bronya,Link Rope,Energy Regeneration Rate
-Clara,Body,CRIT Rate
 Clara,Body,CRIT DMG
+Clara,Body,CRIT Rate
 Clara,Feet,ATK%
-Clara,Planar Sphere,Physical DMG Boost
 Clara,Planar Sphere,ATK%
+Clara,Planar Sphere,Physical DMG Boost
 Clara,Link Rope,ATK%
-Dan Heng,Body,CRIT Rate
 Dan Heng,Body,CRIT DMG
+Dan Heng,Body,CRIT Rate
 Dan Heng,Feet,ATK%
 Dan Heng,Feet,SPD
-Dan Heng,Planar Sphere,Wind DMG Boost
 Dan Heng,Planar Sphere,ATK%
+Dan Heng,Planar Sphere,Wind DMG Boost
 Dan Heng,Link Rope,ATK%
-Dr. Ratio,Body,CRIT Rate
 Dr. Ratio,Body,CRIT DMG
-Dr. Ratio,Feet,SPD
+Dr. Ratio,Body,CRIT Rate
 Dr. Ratio,Feet,ATK%
+Dr. Ratio,Feet,SPD
 Dr. Ratio,Planar Sphere,ATK%
 Dr. Ratio,Planar Sphere,Imaginary DMG Boost
 Dr. Ratio,Link Rope,ATK%
@@ -84,17 +86,17 @@ Firefly,Body,ATK%
 Firefly,Feet,SPD
 Firefly,Planar Sphere,ATK%
 Firefly,Link Rope,Break Effect
-Fu Xuan,Body,HP%
 Fu Xuan,Body,DEF%
-Fu Xuan,Feet,SPD
+Fu Xuan,Body,HP%
 Fu Xuan,Feet,HP%
-Fu Xuan,Planar Sphere,HP%
+Fu Xuan,Feet,SPD
 Fu Xuan,Planar Sphere,DEF%
+Fu Xuan,Planar Sphere,HP%
 Fu Xuan,Link Rope,Energy Regeneration Rate
 Gallagher,Body,Outgoing Healing Boost
 Gallagher,Feet,SPD
-Gallagher,Planar Sphere,HP%
 Gallagher,Planar Sphere,DEF%
+Gallagher,Planar Sphere,HP%
 Gallagher,Link Rope,Energy Regeneration Rate
 Gepard,Body,DEF%
 Gepard,Feet,SPD
@@ -103,38 +105,38 @@ Gepard,Link Rope,Energy Regeneration Rate
 Guinaifen,Body,ATK%
 Guinaifen,Body,Effect Hit Rate
 Guinaifen,Feet,SPD
-Guinaifen,Planar Sphere,Fire DMG Boost
 Guinaifen,Planar Sphere,ATK%
+Guinaifen,Planar Sphere,Fire DMG Boost
 Guinaifen,Link Rope,ATK%
-Hanya,Body,HP%
 Hanya,Body,DEF%
+Hanya,Body,HP%
 Hanya,Feet,SPD
-Hanya,Planar Sphere,HP%
 Hanya,Planar Sphere,DEF%
+Hanya,Planar Sphere,HP%
 Hanya,Link Rope,Energy Regeneration Rate
-Herta,Body,CRIT Rate
 Herta,Body,CRIT DMG
-Herta,Feet,SPD
+Herta,Body,CRIT Rate
 Herta,Feet,ATK%
-Herta,Planar Sphere,Ice DMG Boost
+Herta,Feet,SPD
 Herta,Planar Sphere,ATK%
+Herta,Planar Sphere,Ice DMG Boost
 Herta,Link Rope,ATK%
-Himeko,Body,CRIT Rate
 Himeko,Body,CRIT DMG
-Himeko,Feet,SPD
+Himeko,Body,CRIT Rate
 Himeko,Feet,ATK%
-Himeko,Planar Sphere,Fire DMG Boost
+Himeko,Feet,SPD
 Himeko,Planar Sphere,ATK%
+Himeko,Planar Sphere,Fire DMG Boost
 Himeko,Link Rope,ATK%
-Hook,Body,CRIT Rate
 Hook,Body,CRIT DMG
-Hook,Feet,SPD
+Hook,Body,CRIT Rate
 Hook,Feet,ATK%
-Hook,Planar Sphere,Fire DMG Boost
+Hook,Feet,SPD
 Hook,Planar Sphere,ATK%
+Hook,Planar Sphere,Fire DMG Boost
 Hook,Link Rope,ATK%
-Huohuo,Body,Outgoing Healing Boost
 Huohuo,Body,HP%
+Huohuo,Body,Outgoing Healing Boost
 Huohuo,Feet,SPD
 Huohuo,Planar Sphere,HP%
 Huohuo,Link Rope,Energy Regeneration Rate
@@ -142,84 +144,85 @@ Dan Heng • Imbibitor Lunae,Body,CRIT DMG
 Dan Heng • Imbibitor Lunae,Body,CRIT Rate
 Dan Heng • Imbibitor Lunae,Feet,ATK%
 Dan Heng • Imbibitor Lunae,Feet,SPD
-Dan Heng • Imbibitor Lunae,Planar Sphere,Imaginary DMG Boost
 Dan Heng • Imbibitor Lunae,Planar Sphere,ATK%
+Dan Heng • Imbibitor Lunae,Planar Sphere,Imaginary DMG Boost
 Dan Heng • Imbibitor Lunae,Link Rope,ATK%
-Jade,Body,CRIT Rate
 Jade,Body,CRIT DMG
+Jade,Body,CRIT Rate
 Jade,Feet,ATK%
 Jade,Planar Sphere,Quantum DMG Boost
 Jade,Link Rope,ATK%
 Jing Yuan,Body,CRIT DMG
 Jing Yuan,Body,CRIT Rate
-Jing Yuan,Feet,SPD
 Jing Yuan,Feet,ATK%
-Jing Yuan,Planar Sphere,Lightning DMG Boost
+Jing Yuan,Feet,SPD
 Jing Yuan,Planar Sphere,ATK%
+Jing Yuan,Planar Sphere,Lightning DMG Boost
 Jing Yuan,Link Rope,ATK%
 Jingliu,Body,CRIT DMG
-Jingliu,Feet,SPD
 Jingliu,Feet,ATK%
-Jingliu,Planar Sphere,Ice DMG Boost
+Jingliu,Feet,SPD
 Jingliu,Planar Sphere,ATK%
+Jingliu,Planar Sphere,Ice DMG Boost
 Jingliu,Link Rope,ATK%
 Kafka,Body,ATK%
-Kafka,Feet,SPD
 Kafka,Feet,ATK%
-Kafka,Planar Sphere,Lightning DMG Boost
+Kafka,Feet,SPD
 Kafka,Planar Sphere,ATK%
+Kafka,Planar Sphere,Lightning DMG Boost
 Kafka,Link Rope,ATK%
-Luka,Body,Effect Hit Rate
 Luka,Body,ATK%
+Luka,Body,Effect Hit Rate
 Luka,Feet,SPD
-Luka,Planar Sphere,Physical DMG Boost
 Luka,Planar Sphere,ATK%
-Luka,Link Rope,Break Effect
+Luka,Planar Sphere,Physical DMG Boost
 Luka,Link Rope,ATK%
+Luka,Link Rope,Break Effect
 Luocha,Body,Outgoing Healing Boost
 Luocha,Feet,SPD
 Luocha,Planar Sphere,ATK%
 Luocha,Link Rope,Energy Regeneration Rate
-Lynx,Body,Outgoing Healing Boost
 Lynx,Body,HP%
+Lynx,Body,Outgoing Healing Boost
 Lynx,Feet,SPD
 Lynx,Planar Sphere,HP%
 Lynx,Link Rope,Energy Regeneration Rate
-March 7th,Body,Effect Hit Rate
 March 7th,Body,DEF%
+March 7th,Body,Effect Hit Rate
 March 7th,Feet,SPD
 March 7th,Planar Sphere,DEF%
-March 7th,Link Rope,Energy Regeneration Rate
 March 7th,Link Rope,DEF%
-March 7th • The Hunt,Body,CRIT Rate
+March 7th,Link Rope,Energy Regeneration Rate
 March 7th • The Hunt,Body,CRIT DMG
-March 7th • The Hunt,Feet,SPD
+March 7th • The Hunt,Body,CRIT Rate
 March 7th • The Hunt,Feet,ATK%
-March 7th • The Hunt,Planar Sphere,Imaginary DMG Boost
+March 7th • The Hunt,Feet,SPD
 March 7th • The Hunt,Planar Sphere,ATK%
+March 7th • The Hunt,Planar Sphere,Imaginary DMG Boost
 March 7th • The Hunt,Link Rope,ATK%
-Misha,Body,CRIT Rate
+March 7th • The Hunt,Link Rope,Break Effect
 Misha,Body,CRIT DMG
-Misha,Feet,SPD
+Misha,Body,CRIT Rate
 Misha,Feet,ATK%
-Misha,Planar Sphere,Ice DMG Boost
+Misha,Feet,SPD
 Misha,Planar Sphere,ATK%
+Misha,Planar Sphere,Ice DMG Boost
 Misha,Link Rope,ATK%
-Natasha,Body,Outgoing Healing Boost
 Natasha,Body,HP%
+Natasha,Body,Outgoing Healing Boost
 Natasha,Feet,SPD
 Natasha,Planar Sphere,HP%
 Natasha,Link Rope,Energy Regeneration Rate
 Pela,Body,Effect Hit Rate
 Pela,Body,HP%
 Pela,Feet,SPD
-Pela,Planar Sphere,HP%
 Pela,Planar Sphere,DEF%
+Pela,Planar Sphere,HP%
 Pela,Link Rope,Energy Regeneration Rate
-Qingque,Body,CRIT Rate
 Qingque,Body,CRIT DMG
-Qingque,Feet,SPD
+Qingque,Body,CRIT Rate
 Qingque,Feet,ATK%
+Qingque,Feet,SPD
 Qingque,Planar Sphere,Quantum DMG Boost
 Qingque,Link Rope,ATK%
 Robin,Body,ATK%
@@ -228,47 +231,54 @@ Robin,Feet,SPD
 Robin,Planar Sphere,ATK%
 Robin,Planar Sphere,Physical DMG Boost
 Robin,Link Rope,Energy Regeneration Rate
-Ruan Mei,Body,HP%
 Ruan Mei,Body,DEF%
+Ruan Mei,Body,HP%
 Ruan Mei,Feet,SPD
-Ruan Mei,Planar Sphere,HP%
 Ruan Mei,Planar Sphere,DEF%
-Ruan Mei,Link Rope,Energy Regeneration Rate
+Ruan Mei,Planar Sphere,HP%
 Ruan Mei,Link Rope,Break Effect
-Sampo,Body,Effect Hit Rate
+Ruan Mei,Link Rope,Energy Regeneration Rate
 Sampo,Body,ATK%
+Sampo,Body,Effect Hit Rate
+Sampo,Feet,ATK%
 Sampo,Feet,SPD
-Sampo,Planar Sphere,Wind DMG Boost
 Sampo,Planar Sphere,ATK%
+Sampo,Planar Sphere,Wind DMG Boost
 Sampo,Link Rope,ATK%
-Seele,Body,CRIT Rate
 Seele,Body,CRIT DMG
+Seele,Body,CRIT Rate
 Seele,Feet,ATK%
-Seele,Planar Sphere,Quantum DMG Boost
 Seele,Planar Sphere,ATK%
+Seele,Planar Sphere,Quantum DMG Boost
 Seele,Link Rope,ATK%
-Serval,Body,CRIT Rate
 Serval,Body,CRIT DMG
-Serval,Feet,SPD
+Serval,Body,CRIT Rate
 Serval,Feet,ATK%
-Serval,Planar Sphere,Lightning DMG Boost
+Serval,Feet,SPD
 Serval,Planar Sphere,ATK%
+Serval,Planar Sphere,Lightning DMG Boost
 Serval,Link Rope,ATK%
+Silver Wolf,Body,CRIT DMG
+Silver Wolf,Body,CRIT Rate
 Silver Wolf,Body,Effect Hit Rate
+Silver Wolf,Body,HP%
 Silver Wolf,Feet,SPD
+Silver Wolf,Planar Sphere,DEF%
+Silver Wolf,Planar Sphere,HP%
 Silver Wolf,Planar Sphere,Quantum DMG Boost
+Silver Wolf,Link Rope,ATK%
 Silver Wolf,Link Rope,Energy Regeneration Rate
 Sparkle,Body,CRIT DMG
 Sparkle,Feet,SPD
-Sparkle,Planar Sphere,HP%
 Sparkle,Planar Sphere,DEF%
+Sparkle,Planar Sphere,HP%
 Sparkle,Link Rope,Energy Regeneration Rate
-Sushang,Body,CRIT Rate
 Sushang,Body,CRIT DMG
-Sushang,Feet,SPD
+Sushang,Body,CRIT Rate
 Sushang,Feet,ATK%
-Sushang,Planar Sphere,Physical DMG Boost
+Sushang,Feet,SPD
 Sushang,Planar Sphere,ATK%
+Sushang,Planar Sphere,Physical DMG Boost
 Sushang,Link Rope,ATK%
 Sushang,Link Rope,Break Effect
 Tingyun,Body,ATK%
@@ -277,63 +287,63 @@ Tingyun,Feet,SPD
 Tingyun,Planar Sphere,ATK%
 Tingyun,Planar Sphere,HP%
 Tingyun,Link Rope,Energy Regeneration Rate
-Topaz & Numby,Body,CRIT Rate
 Topaz & Numby,Body,CRIT DMG
-Topaz & Numby,Feet,SPD
+Topaz & Numby,Body,CRIT Rate
 Topaz & Numby,Feet,ATK%
+Topaz & Numby,Feet,SPD
 Topaz & Numby,Planar Sphere,ATK%
 Topaz & Numby,Planar Sphere,Fire DMG Boost
 Topaz & Numby,Link Rope,ATK%
 Trailblazer (Fire),Body,DEF%
-Trailblazer (Fire),Feet,SPD
 Trailblazer (Fire),Feet,DEF%
+Trailblazer (Fire),Feet,SPD
 Trailblazer (Fire),Planar Sphere,DEF%
 Trailblazer (Fire),Planar Sphere,Fire DMG Boost
-Trailblazer (Fire),Link Rope,Energy Regeneration Rate
 Trailblazer (Fire),Link Rope,DEF%
-Trailblazer (Imaginary),Body,HP%
+Trailblazer (Fire),Link Rope,Energy Regeneration Rate
 Trailblazer (Imaginary),Body,DEF%
+Trailblazer (Imaginary),Body,HP%
 Trailblazer (Imaginary),Feet,SPD
-Trailblazer (Imaginary),Planar Sphere,HP%
 Trailblazer (Imaginary),Planar Sphere,DEF%
+Trailblazer (Imaginary),Planar Sphere,HP%
 Trailblazer (Imaginary),Link Rope,Break Effect
 Trailblazer (Imaginary),Link Rope,Energy Regeneration Rate
-Trailblazer (Physical),Body,CRIT Rate
 Trailblazer (Physical),Body,CRIT DMG
-Trailblazer (Physical),Feet,SPD
+Trailblazer (Physical),Body,CRIT Rate
 Trailblazer (Physical),Feet,ATK%
-Trailblazer (Physical),Planar Sphere,Physical DMG Boost
+Trailblazer (Physical),Feet,SPD
 Trailblazer (Physical),Planar Sphere,ATK%
+Trailblazer (Physical),Planar Sphere,Physical DMG Boost
 Trailblazer (Physical),Link Rope,ATK%
 Trailblazer (Physical),Link Rope,Break Effect
 Welt,Body,CRIT Rate
 Welt,Body,Effect Hit Rate
 Welt,Feet,SPD
-Welt,Planar Sphere,Imaginary DMG Boost
 Welt,Planar Sphere,ATK%
+Welt,Planar Sphere,Imaginary DMG Boost
 Welt,Link Rope,ATK%
-Xueyi,Body,CRIT Rate
 Xueyi,Body,CRIT DMG
-Xueyi,Feet,SPD
+Xueyi,Body,CRIT Rate
 Xueyi,Feet,ATK%
+Xueyi,Feet,SPD
 Xueyi,Planar Sphere,ATK%
 Xueyi,Planar Sphere,Quantum DMG Boost
 Xueyi,Link Rope,Break Effect
 Yanqing,Body,CRIT DMG
-Yanqing,Feet,SPD
 Yanqing,Feet,ATK%
-Yanqing,Planar Sphere,Ice DMG Boost
+Yanqing,Feet,SPD
 Yanqing,Planar Sphere,ATK%
+Yanqing,Planar Sphere,Ice DMG Boost
 Yanqing,Link Rope,ATK%
 Yukong,Body,HP%
 Yukong,Feet,SPD
-Yukong,Planar Sphere,HP%
 Yukong,Planar Sphere,DEF%
+Yukong,Planar Sphere,HP%
 Yukong,Link Rope,Energy Regeneration Rate
-Yunli,Body,CRIT Rate
 Yunli,Body,CRIT DMG
+Yunli,Body,CRIT Rate
 Yunli,Feet,ATK%
-Yunli,Planar Sphere,Physical DMG Boost
 Yunli,Planar Sphere,ATK%
+Yunli,Planar Sphere,Physical DMG Boost
 Yunli,Link Rope,ATK%
 Yunli,Link Rope,Energy Regeneration Rate

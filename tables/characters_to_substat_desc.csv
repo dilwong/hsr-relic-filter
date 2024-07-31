@@ -31,7 +31,8 @@ Luka,SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK%
 Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
 Lynx,SPD (breakpoint) > HP% > Effect RES > DEF%
 March 7th,Effect Hit Rate (Until 64% OR skip if no Freeze build) = SPD (Breakpoint) > DEF% > HP% = Effect RES
-March 7th • The Hunt,SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%
+March 7th • The Hunt,"SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%
+SPD (Until breakpoint) > BREAK EFFECT%"
 Misha,SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Natasha,SPD (breakpoint) > HP% > Effect RES = DEF%
 Pela,Effect Hit Rate (Until 57%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)
@@ -41,7 +42,9 @@ Ruan Mei,Break Effect (Until 180%) > SPD (Until Breakpoint) > HP% = DEF% > Effec
 Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
 Seele,CRIT RATE = CRIT DMG > ATK%
 Serval,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
-Silver Wolf,EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
+Silver Wolf,"EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
+EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
+Effect Hit Rate (until 47%) > Speed = Crit DMG = Crit Rate > ATK%"
 Sparkle,SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = EFF RES% (30% if using Broken Keel)
 Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
 Tingyun,SPD (Until Breakpoint) = ATK% (Until Recommended) > HP = DEF > EFF RES% (30% if using Broken Keel)

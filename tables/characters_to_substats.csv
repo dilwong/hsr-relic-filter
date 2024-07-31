@@ -133,6 +133,7 @@ March 7th,Effect Res
 March 7th,HP%
 March 7th,SPD
 March 7th • The Hunt,ATK%
+March 7th • The Hunt,Break Effect
 March 7th • The Hunt,CRIT DMG
 March 7th • The Hunt,CRIT Rate
 March 7th • The Hunt,SPD
@@ -173,7 +174,10 @@ Serval,ATK%
 Serval,CRIT DMG
 Serval,CRIT Rate
 Serval,SPD
+Silver Wolf,ATK%
 Silver Wolf,Break Effect
+Silver Wolf,CRIT DMG
+Silver Wolf,CRIT Rate
 Silver Wolf,DEF%
 Silver Wolf,Effect Hit Rate
 Silver Wolf,Effect Res
