@@ -24,6 +24,7 @@ Hook,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Huohuo,SPD (breakpoint) > HP% > EFF RES% = DEF%
 Dan Heng • Imbibitor Lunae,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK% 
 Jade,CRIT RATE >= CRIT DMG > ATK% > SPD
+Jiaoqiu,EHR (Until 140%) > SPD > ATK%
 Jing Yuan,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Jingliu,SPD (breakpoint) > CRIT RATE (until 50%) = CRIT DMG > ATK%
 Kafka,SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect
