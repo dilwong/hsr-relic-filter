@@ -12,6 +12,7 @@ Bronya,SPD (Until breakpoint) > CRIT DMG > HP = DEF > Effect RES% (30% If Keel)
 Clara,SPD (breakpoint if desired) = CRIT RATE = CRIT DMG > ATK%
 Dan Heng,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Dr. Ratio,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
+Feixiao,SPD (Until Desired Breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Firefly,SPD (Until Breakpoint) > Break Effect% > ATK%
 Fu Xuan,SPD (breakpoint) = HP% >= DEF% > EFF RES%
 Gallagher,SPD (as much as possible) > Break Effect % (up to 150%) > Effect RES% > HP% = DEF%
@@ -35,6 +36,7 @@ March 7th,Effect Hit Rate (Until 64% OR skip if no Freeze build) = SPD (Breakpoi
 March 7th • The Hunt,"SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%
 SPD (Until breakpoint) > BREAK EFFECT%"
 Misha,SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%
+Moze,SPD (only if needed for your team) = CRIT RATE >= CRIT DMG > ATK%
 Natasha,SPD (breakpoint) > HP% > Effect RES = DEF%
 Pela,Effect Hit Rate (Until 57%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)
 Qingque,SPD (breakpoint) > CRIT Rate = CRIT DMG > ATK%

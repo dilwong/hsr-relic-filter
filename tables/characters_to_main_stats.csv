@@ -82,6 +82,13 @@ Dr. Ratio,Feet,SPD
 Dr. Ratio,Planar Sphere,ATK%
 Dr. Ratio,Planar Sphere,Imaginary DMG Boost
 Dr. Ratio,Link Rope,ATK%
+Feixiao,Body,CRIT DMG
+Feixiao,Body,CRIT Rate
+Feixiao,Feet,ATK%
+Feixiao,Feet,SPD
+Feixiao,Planar Sphere,ATK%
+Feixiao,Planar Sphere,Wind DMG Boost
+Feixiao,Link Rope,ATK%
 Firefly,Body,ATK%
 Firefly,Feet,SPD
 Firefly,Planar Sphere,ATK%
@@ -213,6 +220,11 @@ Misha,Feet,SPD
 Misha,Planar Sphere,ATK%
 Misha,Planar Sphere,Ice DMG Boost
 Misha,Link Rope,ATK%
+Moze,Body,CRIT DMG
+Moze,Body,CRIT Rate
+Moze,Feet,ATK%
+Moze,Planar Sphere,Lightning DMG Boost
+Moze,Link Rope,ATK%
 Natasha,Body,HP%
 Natasha,Body,Outgoing Healing Boost
 Natasha,Feet,SPD

@@ -55,6 +55,10 @@ Dr. Ratio,ATK%
 Dr. Ratio,CRIT DMG
 Dr. Ratio,CRIT Rate
 Dr. Ratio,SPD
+Feixiao,ATK%
+Feixiao,CRIT DMG
+Feixiao,CRIT Rate
+Feixiao,SPD
 Firefly,ATK%
 Firefly,Break Effect
 Firefly,SPD
@@ -144,6 +148,10 @@ Misha,ATK%
 Misha,CRIT DMG
 Misha,CRIT Rate
 Misha,SPD
+Moze,ATK%
+Moze,CRIT DMG
+Moze,CRIT Rate
+Moze,SPD
 Natasha,DEF%
 Natasha,Effect Res
 Natasha,HP%
