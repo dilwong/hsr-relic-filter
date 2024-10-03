@@ -1,6 +1,5 @@
 Character,Relic Set
 Acheron,Band of Sizzling Thunder
-Acheron,Firmament Frontline: Glamoth
 Acheron,Inert Salsotto
 Acheron,Izumo Gensei and Takama Divine Realm
 Acheron,Musketeer of Wild Wheat
@@ -10,8 +9,7 @@ Argenti,Champion of Streetwise Boxing
 Argenti,Firmament Frontline: Glamoth
 Argenti,Inert Salsotto
 Argenti,Musketeer of Wild Wheat
-Argenti,Rutilant Arena
-Argenti,Space Sealing Station
+Argenti,"Sigonia, the Unclaimed Desolation"
 Arlan,Band of Sizzling Thunder
 Arlan,Firmament Frontline: Glamoth
 Arlan,Inert Salsotto
@@ -73,7 +71,6 @@ Clara,"Duran, Dynasty of Running Wolves"
 Clara,Inert Salsotto
 Clara,Longevous Disciple
 Clara,Rutilant Arena
-Clara,Space Sealing Station
 Clara,The Ashblazing Grand Duke
 Dan Heng,Eagle of Twilight Line
 Dan Heng,Firmament Frontline: Glamoth
@@ -83,7 +80,6 @@ Dan Heng,Pioneer Diver of Dead Waters
 Dan Heng,Rutilant Arena
 Dan Heng,Space Sealing Station
 Dan Heng • Imbibitor Lunae,Firmament Frontline: Glamoth
-Dan Heng • Imbibitor Lunae,Inert Salsotto
 Dan Heng • Imbibitor Lunae,Musketeer of Wild Wheat
 Dan Heng • Imbibitor Lunae,Pioneer Diver of Dead Waters
 Dan Heng • Imbibitor Lunae,Rutilant Arena
@@ -92,10 +88,9 @@ Dan Heng • Imbibitor Lunae,Wastelander of Banditry Desert
 Dr. Ratio,"Duran, Dynasty of Running Wolves"
 Dr. Ratio,Firmament Frontline: Glamoth
 Dr. Ratio,Inert Salsotto
+Dr. Ratio,Izumo Gensei and Takama Divine Realm
 Dr. Ratio,Musketeer of Wild Wheat
 Dr. Ratio,Pioneer Diver of Dead Waters
-Dr. Ratio,Rutilant Arena
-Dr. Ratio,Space Sealing Station
 Dr. Ratio,The Ashblazing Grand Duke
 Dr. Ratio,Wastelander of Banditry Desert
 Feixiao,"Duran, Dynasty of Running Wolves"
@@ -120,6 +115,7 @@ Fu Xuan,Messenger Traversing Hackerspace
 Gallagher,Broken Keel
 Gallagher,Fleet of the Ageless
 Gallagher,Forge of the Kalpagni Lantern
+Gallagher,Iron Cavalry Against the Scourge
 Gallagher,Messenger Traversing Hackerspace
 Gallagher,Passerby of Wandering Cloud
 Gallagher,"Penacony, Land of the Dreams"
@@ -147,17 +143,17 @@ Hanya,"Watchmaker, Master of Dream Machinations"
 Herta,Firmament Frontline: Glamoth
 Herta,Hunter of Glacial Forest
 Herta,Inert Salsotto
+Herta,Izumo Gensei and Takama Divine Realm
 Herta,Musketeer of Wild Wheat
-Herta,Rutilant Arena
-Herta,Space Sealing Station
+Herta,"Sigonia, the Unclaimed Desolation"
 Herta,The Ashblazing Grand Duke
 Himeko,Firesmith of Lava-Forging
 Himeko,Firmament Frontline: Glamoth
 Himeko,Inert Salsotto
+Himeko,Izumo Gensei and Takama Divine Realm
 Himeko,Musketeer of Wild Wheat
 Himeko,Pioneer Diver of Dead Waters
-Himeko,Rutilant Arena
-Himeko,Space Sealing Station
+Himeko,"Sigonia, the Unclaimed Desolation"
 Himeko,The Ashblazing Grand Duke
 Hook,Firesmith of Lava-Forging
 Hook,Firmament Frontline: Glamoth
@@ -190,9 +186,8 @@ Jiaoqiu,Sprightly Vonwacq
 Jing Yuan,Band of Sizzling Thunder
 Jing Yuan,Inert Salsotto
 Jing Yuan,Musketeer of Wild Wheat
-Jing Yuan,Rutilant Arena
-Jing Yuan,Space Sealing Station
 Jing Yuan,The Ashblazing Grand Duke
+Jing Yuan,The Wondrous BananAmusement Park
 Jingliu,Firmament Frontline: Glamoth
 Jingliu,Genius of Brilliant Stars
 Jingliu,Hunter of Glacial Forest
@@ -207,6 +202,17 @@ Kafka,Firmament Frontline: Glamoth
 Kafka,Pioneer Diver of Dead Waters
 Kafka,Prisoner in Deep Confinement
 Kafka,Space Sealing Station
+Lingsha,Broken Keel
+Lingsha,Eagle of Twilight Line
+Lingsha,Fleet of the Ageless
+Lingsha,Forge of the Kalpagni Lantern
+Lingsha,Iron Cavalry Against the Scourge
+Lingsha,"Lushaka, the Sunken Seas"
+Lingsha,Messenger Traversing Hackerspace
+Lingsha,Passerby of Wandering Cloud
+Lingsha,Sprightly Vonwacq
+Lingsha,Talia: Kingdom of Banditry
+Lingsha,Thief of Shooting Meteor
 Luka,Champion of Streetwise Boxing
 Luka,Firmament Frontline: Glamoth
 Luka,Pan-Cosmic Commercial Enterprise
@@ -251,7 +257,6 @@ Misha,Inert Salsotto
 Misha,Musketeer of Wild Wheat
 Misha,Pioneer Diver of Dead Waters
 Misha,Rutilant Arena
-Misha,Space Sealing Station
 Moze,Band of Sizzling Thunder
 Moze,"Duran, Dynasty of Running Wolves"
 Moze,Inert Salsotto
@@ -273,7 +278,6 @@ Pela,Longevous Disciple
 Pela,Messenger Traversing Hackerspace
 Pela,Musketeer of Wild Wheat
 Pela,"Penacony, Land of the Dreams"
-Qingque,Firmament Frontline: Glamoth
 Qingque,Genius of Brilliant Stars
 Qingque,Inert Salsotto
 Qingque,Musketeer of Wild Wheat
@@ -322,7 +326,6 @@ Silver Wolf,Musketeer of Wild Wheat
 Silver Wolf,Pan-Cosmic Commercial Enterprise
 Silver Wolf,"Penacony, Land of the Dreams"
 Silver Wolf,Talia: Kingdom of Banditry
-Silver Wolf,Thief of Shooting Meteor
 Sparkle,Broken Keel
 Sparkle,Eagle of Twilight Line
 Sparkle,Fleet of the Ageless
@@ -346,14 +349,12 @@ Tingyun,"Penacony, Land of the Dreams"
 Tingyun,"Watchmaker, Master of Dream Machinations"
 Topaz & Numby,"Duran, Dynasty of Running Wolves"
 Topaz & Numby,Firesmith of Lava-Forging
-Topaz & Numby,Firmament Frontline: Glamoth
 Topaz & Numby,Inert Salsotto
 Topaz & Numby,Izumo Gensei and Takama Divine Realm
 Topaz & Numby,Musketeer of Wild Wheat
 Topaz & Numby,Pioneer Diver of Dead Waters
-Topaz & Numby,Rutilant Arena
-Topaz & Numby,Space Sealing Station
 Topaz & Numby,The Ashblazing Grand Duke
+Topaz & Numby,The Wondrous BananAmusement Park
 Trailblazer (Fire),Broken Keel
 Trailblazer (Fire),Fleet of the Ageless
 Trailblazer (Fire),Knight of Purity Palace

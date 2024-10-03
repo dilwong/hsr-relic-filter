@@ -50,7 +50,6 @@ Dan Heng,SPD
 Dan Heng • Imbibitor Lunae,ATK%
 Dan Heng • Imbibitor Lunae,CRIT DMG
 Dan Heng • Imbibitor Lunae,CRIT Rate
-Dan Heng • Imbibitor Lunae,SPD
 Dr. Ratio,ATK%
 Dr. Ratio,CRIT DMG
 Dr. Ratio,CRIT Rate
@@ -121,6 +120,8 @@ Kafka,ATK%
 Kafka,Break Effect
 Kafka,Effect Hit Rate
 Kafka,SPD
+Lingsha,ATK%
+Lingsha,SPD
 Luka,ATK%
 Luka,Break Effect
 Luka,Effect Hit Rate

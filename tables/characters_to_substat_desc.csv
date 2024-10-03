@@ -23,12 +23,13 @@ Herta,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Himeko,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Hook,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Huohuo,SPD (breakpoint) > HP% > EFF RES% = DEF%
-Dan Heng • Imbibitor Lunae,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK% 
+Dan Heng • Imbibitor Lunae,CRIT RATE = CRIT DMG > ATK% 
 Jade,CRIT RATE >= CRIT DMG > ATK% > SPD
 Jiaoqiu,EHR (Until 140%) > SPD > ATK%
-Jing Yuan,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
+Jing Yuan,CRIT RATE = CRIT DMG > ATK% > Speed (optional - only if you need it)
 Jingliu,SPD (breakpoint) > CRIT RATE (until 50%) = CRIT DMG > ATK%
 Kafka,SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect
+Lingsha,SPD (until the desired breakpoint) > BREAK% >= ATK%
 Luka,SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK% 
 Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
 Lynx,SPD (breakpoint) > HP% > Effect RES > DEF%
@@ -46,7 +47,6 @@ Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
 Seele,CRIT RATE = CRIT DMG > ATK%
 Serval,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Silver Wolf,"EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
-EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
 Effect Hit Rate (until 47%) > Speed = Crit DMG = Crit Rate > ATK%"
 Sparkle,SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = EFF RES% (30% if using Broken Keel)
 Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%

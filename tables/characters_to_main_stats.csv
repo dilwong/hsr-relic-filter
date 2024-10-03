@@ -23,7 +23,7 @@ Arlan,Link Rope,ATK%
 Asta,Body,DEF%
 Asta,Body,HP%
 Asta,Feet,SPD
-Asta,Planar Sphere,DEF%
+Asta,Planar Sphere,Fire DMG Boost
 Asta,Planar Sphere,HP%
 Asta,Link Rope,Energy Regeneration Rate
 Aventurine,Body,CRIT DMG
@@ -178,11 +178,16 @@ Jingliu,Planar Sphere,ATK%
 Jingliu,Planar Sphere,Ice DMG Boost
 Jingliu,Link Rope,ATK%
 Kafka,Body,ATK%
-Kafka,Feet,ATK%
 Kafka,Feet,SPD
 Kafka,Planar Sphere,ATK%
 Kafka,Planar Sphere,Lightning DMG Boost
 Kafka,Link Rope,ATK%
+Lingsha,Body,Outgoing Healing Boost
+Lingsha,Feet,SPD
+Lingsha,Planar Sphere,ATK%
+Lingsha,Planar Sphere,HP%
+Lingsha,Link Rope,Break Effect
+Lingsha,Link Rope,Energy Regeneration Rate
 Luka,Body,ATK%
 Luka,Body,Effect Hit Rate
 Luka,Feet,SPD
@@ -244,7 +249,6 @@ Qingque,Planar Sphere,Quantum DMG Boost
 Qingque,Link Rope,ATK%
 Robin,Body,ATK%
 Robin,Feet,ATK%
-Robin,Feet,SPD
 Robin,Planar Sphere,ATK%
 Robin,Planar Sphere,Physical DMG Boost
 Robin,Link Rope,Energy Regeneration Rate
@@ -278,9 +282,7 @@ Serval,Link Rope,ATK%
 Silver Wolf,Body,CRIT DMG
 Silver Wolf,Body,CRIT Rate
 Silver Wolf,Body,Effect Hit Rate
-Silver Wolf,Body,HP%
 Silver Wolf,Feet,SPD
-Silver Wolf,Planar Sphere,DEF%
 Silver Wolf,Planar Sphere,HP%
 Silver Wolf,Planar Sphere,Quantum DMG Boost
 Silver Wolf,Link Rope,ATK%
@@ -352,10 +354,13 @@ Yanqing,Feet,SPD
 Yanqing,Planar Sphere,ATK%
 Yanqing,Planar Sphere,Ice DMG Boost
 Yanqing,Link Rope,ATK%
-Yukong,Body,HP%
+Yukong,Body,CRIT DMG
+Yukong,Body,CRIT Rate
+Yukong,Feet,ATK%
 Yukong,Feet,SPD
-Yukong,Planar Sphere,DEF%
-Yukong,Planar Sphere,HP%
+Yukong,Planar Sphere,ATK%
+Yukong,Planar Sphere,Imaginary DMG Boost
+Yukong,Link Rope,ATK%
 Yukong,Link Rope,Energy Regeneration Rate
 Yunli,Body,CRIT DMG
 Yunli,Body,CRIT Rate
