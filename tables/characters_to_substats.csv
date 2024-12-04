@@ -189,10 +189,7 @@ Serval,ATK%
 Serval,CRIT DMG
 Serval,CRIT Rate
 Serval,SPD
-Silver Wolf,ATK%
 Silver Wolf,Break Effect
-Silver Wolf,CRIT DMG
-Silver Wolf,CRIT Rate
 Silver Wolf,DEF%
 Silver Wolf,Effect Hit Rate
 Silver Wolf,Effect Res
@@ -203,6 +200,11 @@ Sparkle,DEF%
 Sparkle,Effect Res
 Sparkle,HP%
 Sparkle,SPD
+Sunday,CRIT DMG
+Sunday,DEF%
+Sunday,Effect Res
+Sunday,HP%
+Sunday,SPD
 Sushang,ATK%
 Sushang,Break Effect
 Sushang,CRIT DMG
@@ -217,20 +219,20 @@ Topaz & Numby,ATK%
 Topaz & Numby,CRIT DMG
 Topaz & Numby,CRIT Rate
 Topaz & Numby,SPD
-Trailblazer (Fire),DEF%
-Trailblazer (Fire),Effect Hit Rate
-Trailblazer (Fire),Effect Res
-Trailblazer (Fire),HP%
-Trailblazer (Fire),SPD
-Trailblazer (Imaginary),Break Effect
-Trailblazer (Imaginary),DEF%
-Trailblazer (Imaginary),HP%
-Trailblazer (Imaginary),SPD
-Trailblazer (Physical),ATK%
-Trailblazer (Physical),Break Effect
-Trailblazer (Physical),CRIT DMG
-Trailblazer (Physical),CRIT Rate
-Trailblazer (Physical),SPD
+Trailblazer • Destruction,ATK%
+Trailblazer • Destruction,Break Effect
+Trailblazer • Destruction,CRIT DMG
+Trailblazer • Destruction,CRIT Rate
+Trailblazer • Destruction,SPD
+Trailblazer • Harmony,Break Effect
+Trailblazer • Harmony,DEF%
+Trailblazer • Harmony,HP%
+Trailblazer • Harmony,SPD
+Trailblazer • Preservation,DEF%
+Trailblazer • Preservation,Effect Hit Rate
+Trailblazer • Preservation,Effect Res
+Trailblazer • Preservation,HP%
+Trailblazer • Preservation,SPD
 Welt,ATK%
 Welt,CRIT DMG
 Welt,CRIT Rate

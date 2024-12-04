@@ -26,7 +26,7 @@ Huohuo,SPD (breakpoint) > HP% > EFF RES% = DEF%
 Dan Heng • Imbibitor Lunae,CRIT RATE = CRIT DMG > ATK% 
 Jade,CRIT RATE >= CRIT DMG > ATK% > SPD
 Jiaoqiu,EHR (Until 140%) > SPD > ATK%
-Jing Yuan,CRIT RATE = CRIT DMG > ATK% > Speed (optional - only if you need it)
+Jing Yuan,Speed (Until breakpoint to make -1 Speed setup work) > CRIT RATE = CRIT DMG > ATK%
 Jingliu,SPD (breakpoint) > CRIT RATE (until 50%) = CRIT DMG > ATK%
 Kafka,SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect
 Lingsha,SPD (until the desired breakpoint) > BREAK% >= ATK%
@@ -39,7 +39,7 @@ SPD (Until breakpoint) > BREAK EFFECT%"
 Misha,SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Moze,SPD (only if needed for your team) = CRIT RATE >= CRIT DMG > ATK%
 Natasha,SPD (breakpoint) > HP% > Effect RES = DEF%
-Pela,Effect Hit Rate (Until 57%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)
+Pela,Effect Hit Rate (Until 67%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)
 Qingque,SPD (breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Rappa,SPD (Until Desired Breakpoint) > Break Effect > ATK%
 Robin,ATK% >= SPD > HP% = DEF%
@@ -47,15 +47,15 @@ Ruan Mei,Break Effect (Until 180%) > SPD (Until Breakpoint) > HP% = DEF% > Effec
 Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
 Seele,CRIT RATE = CRIT DMG > ATK%
 Serval,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
-Silver Wolf,"EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
-Effect Hit Rate (until 47%) > Speed = Crit DMG = Crit Rate > ATK%"
+Silver Wolf,EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
 Sparkle,SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = EFF RES% (30% if using Broken Keel)
+Sunday,SPD (Until desired speed build) > CRIT DMG > EFF RES% > DEF% = HP%
 Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
 Tingyun,SPD (Until Breakpoint) = ATK% (Until Recommended) > HP = DEF > EFF RES% (30% if using Broken Keel)
 Topaz & Numby,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
-Trailblazer (Fire),Effect RES until 30% (if running Broken Keel) > Speed > DEF% > HP% > Effect Hit Rate
-Trailblazer (Imaginary),SPD = Break Effect% > HP% = DEF%
-Trailblazer (Physical),SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
+Trailblazer • Destruction,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
+Trailblazer • Harmony,SPD = Break Effect% > HP% = DEF%
+Trailblazer • Preservation,Effect RES until 30% (if running Broken Keel) > Speed > DEF% > HP% > Effect Hit Rate
 Welt,SPD (breakpoint) = EHR% (Until recommended) > CRIT RATE = CRIT DMG > ATK%
 Xueyi,SPD (breakpoint) > BREAK EFFECT% >= CRIT RATE = CRIT DMG > ATK%
 Yanqing,SPD (breakpoint) > CRIT RATE (Until soft cap) = CRIT DMG > ATK% > CRIT RATE (After soft cap)

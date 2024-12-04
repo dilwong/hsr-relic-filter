@@ -284,7 +284,6 @@ Serval,Feet,SPD
 Serval,Planar Sphere,ATK%
 Serval,Planar Sphere,Lightning DMG Boost
 Serval,Link Rope,ATK%
-Silver Wolf,Body,CRIT DMG
 Silver Wolf,Body,CRIT Rate
 Silver Wolf,Body,Effect Hit Rate
 Silver Wolf,Feet,SPD
@@ -297,6 +296,11 @@ Sparkle,Feet,SPD
 Sparkle,Planar Sphere,DEF%
 Sparkle,Planar Sphere,HP%
 Sparkle,Link Rope,Energy Regeneration Rate
+Sunday,Body,CRIT DMG
+Sunday,Feet,SPD
+Sunday,Planar Sphere,DEF%
+Sunday,Planar Sphere,HP%
+Sunday,Link Rope,Energy Regeneration Rate
 Sushang,Body,CRIT DMG
 Sushang,Body,CRIT Rate
 Sushang,Feet,ATK%
@@ -318,28 +322,27 @@ Topaz & Numby,Feet,SPD
 Topaz & Numby,Planar Sphere,ATK%
 Topaz & Numby,Planar Sphere,Fire DMG Boost
 Topaz & Numby,Link Rope,ATK%
-Trailblazer (Fire),Body,DEF%
-Trailblazer (Fire),Feet,DEF%
-Trailblazer (Fire),Feet,SPD
-Trailblazer (Fire),Planar Sphere,DEF%
-Trailblazer (Fire),Planar Sphere,Fire DMG Boost
-Trailblazer (Fire),Link Rope,DEF%
-Trailblazer (Fire),Link Rope,Energy Regeneration Rate
-Trailblazer (Imaginary),Body,DEF%
-Trailblazer (Imaginary),Body,HP%
-Trailblazer (Imaginary),Feet,SPD
-Trailblazer (Imaginary),Planar Sphere,DEF%
-Trailblazer (Imaginary),Planar Sphere,HP%
-Trailblazer (Imaginary),Link Rope,Break Effect
-Trailblazer (Imaginary),Link Rope,Energy Regeneration Rate
-Trailblazer (Physical),Body,CRIT DMG
-Trailblazer (Physical),Body,CRIT Rate
-Trailblazer (Physical),Feet,ATK%
-Trailblazer (Physical),Feet,SPD
-Trailblazer (Physical),Planar Sphere,ATK%
-Trailblazer (Physical),Planar Sphere,Physical DMG Boost
-Trailblazer (Physical),Link Rope,ATK%
-Trailblazer (Physical),Link Rope,Break Effect
+Trailblazer • Destruction,Body,CRIT DMG
+Trailblazer • Destruction,Body,CRIT Rate
+Trailblazer • Destruction,Feet,ATK%
+Trailblazer • Destruction,Feet,SPD
+Trailblazer • Destruction,Planar Sphere,ATK%
+Trailblazer • Destruction,Planar Sphere,Physical DMG Boost
+Trailblazer • Destruction,Link Rope,ATK%
+Trailblazer • Harmony,Body,DEF%
+Trailblazer • Harmony,Body,HP%
+Trailblazer • Harmony,Feet,SPD
+Trailblazer • Harmony,Planar Sphere,DEF%
+Trailblazer • Harmony,Planar Sphere,HP%
+Trailblazer • Harmony,Link Rope,Break Effect
+Trailblazer • Harmony,Link Rope,Energy Regeneration Rate
+Trailblazer • Preservation,Body,DEF%
+Trailblazer • Preservation,Feet,DEF%
+Trailblazer • Preservation,Feet,SPD
+Trailblazer • Preservation,Planar Sphere,DEF%
+Trailblazer • Preservation,Planar Sphere,Fire DMG Boost
+Trailblazer • Preservation,Link Rope,DEF%
+Trailblazer • Preservation,Link Rope,Energy Regeneration Rate
 Welt,Body,CRIT Rate
 Welt,Body,Effect Hit Rate
 Welt,Feet,SPD
