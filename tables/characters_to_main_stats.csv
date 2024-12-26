@@ -315,6 +315,12 @@ Tingyun,Feet,SPD
 Tingyun,Planar Sphere,ATK%
 Tingyun,Planar Sphere,HP%
 Tingyun,Link Rope,Energy Regeneration Rate
+Tingyun • Fugue,Body,Effect Hit Rate
+Tingyun • Fugue,Feet,SPD
+Tingyun • Fugue,Planar Sphere,DEF%
+Tingyun • Fugue,Planar Sphere,HP%
+Tingyun • Fugue,Link Rope,Break Effect
+Tingyun • Fugue,Link Rope,Energy Regeneration Rate
 Topaz & Numby,Body,CRIT DMG
 Topaz & Numby,Body,CRIT Rate
 Topaz & Numby,Feet,ATK%

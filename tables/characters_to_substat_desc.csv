@@ -52,6 +52,7 @@ Sparkle,SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = E
 Sunday,SPD (Until desired speed build) > CRIT DMG > EFF RES% > DEF% = HP%
 Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
 Tingyun,SPD (Until Breakpoint) = ATK% (Until Recommended) > HP = DEF > EFF RES% (30% if using Broken Keel)
+Tingyun • Fugue,Effect Hit Rate (Until 67%) > Break Effect (Until 220% or 250% For Iron Cavalry) > SPD > HP% = DEF%
 Topaz & Numby,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Trailblazer • Destruction,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
 Trailblazer • Harmony,SPD = Break Effect% > HP% = DEF%
