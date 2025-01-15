@@ -210,6 +210,10 @@ Sushang,Break Effect
 Sushang,CRIT DMG
 Sushang,CRIT Rate
 Sushang,SPD
+The Herta,ATK%
+The Herta,CRIT DMG
+The Herta,CRIT Rate
+The Herta,SPD
 Tingyun,ATK%
 Tingyun,DEF%
 Tingyun,Effect Res
@@ -238,6 +242,9 @@ Trailblazer • Preservation,Effect Hit Rate
 Trailblazer • Preservation,Effect Res
 Trailblazer • Preservation,HP%
 Trailblazer • Preservation,SPD
+Trailblazer • Remembrance,CRIT DMG
+Trailblazer • Remembrance,Effect Res
+Trailblazer • Remembrance,SPD
 Welt,ATK%
 Welt,CRIT DMG
 Welt,CRIT Rate

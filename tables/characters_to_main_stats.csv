@@ -309,6 +309,14 @@ Sushang,Planar Sphere,ATK%
 Sushang,Planar Sphere,Physical DMG Boost
 Sushang,Link Rope,ATK%
 Sushang,Link Rope,Break Effect
+The Herta,Body,CRIT DMG
+The Herta,Body,CRIT Rate
+The Herta,Feet,ATK%
+The Herta,Feet,SPD
+The Herta,Planar Sphere,ATK%
+The Herta,Planar Sphere,Ice DMG Boost
+The Herta,Link Rope,ATK%
+The Herta,Link Rope,Energy Regeneration Rate
 Tingyun,Body,ATK%
 Tingyun,Body,HP%
 Tingyun,Feet,SPD
@@ -349,6 +357,12 @@ Trailblazer • Preservation,Planar Sphere,DEF%
 Trailblazer • Preservation,Planar Sphere,Fire DMG Boost
 Trailblazer • Preservation,Link Rope,DEF%
 Trailblazer • Preservation,Link Rope,Energy Regeneration Rate
+Trailblazer • Remembrance,Body,CRIT DMG
+Trailblazer • Remembrance,Feet,SPD
+Trailblazer • Remembrance,Planar Sphere,DEF%
+Trailblazer • Remembrance,Planar Sphere,HP%
+Trailblazer • Remembrance,Planar Sphere,Ice DMG Boost
+Trailblazer • Remembrance,Link Rope,Energy Regeneration Rate
 Welt,Body,CRIT Rate
 Welt,Body,Effect Hit Rate
 Welt,Feet,SPD

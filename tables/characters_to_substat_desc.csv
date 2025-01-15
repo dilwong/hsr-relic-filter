@@ -51,12 +51,14 @@ Silver Wolf,EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect%
 Sparkle,SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = EFF RES% (30% if using Broken Keel)
 Sunday,SPD (Until desired speed build) > CRIT DMG > EFF RES% > DEF% = HP%
 Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
+The Herta,SPD (Until Desired Breakpoint) > CRIT RATE > CRIT DMG > ATK%
 Tingyun,SPD (Until Breakpoint) = ATK% (Until Recommended) > HP = DEF > EFF RES% (30% if using Broken Keel)
 Tingyun • Fugue,Effect Hit Rate (Until 67%) > Break Effect (Until 220% or 250% For Iron Cavalry) > SPD > HP% = DEF%
 Topaz & Numby,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Trailblazer • Destruction,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
 Trailblazer • Harmony,SPD = Break Effect% > HP% = DEF%
 Trailblazer • Preservation,Effect RES until 30% (if running Broken Keel) > Speed > DEF% > HP% > Effect Hit Rate
+Trailblazer • Remembrance,SPD > CRIT DMG > Effect RES (until 30% with Broken Keel)
 Welt,SPD (breakpoint) = EHR% (Until recommended) > CRIT RATE = CRIT DMG > ATK%
 Xueyi,SPD (breakpoint) > BREAK EFFECT% >= CRIT RATE = CRIT DMG > ATK%
 Yanqing,SPD (breakpoint) > CRIT RATE (Until soft cap) = CRIT DMG > ATK% > CRIT RATE (After soft cap)
