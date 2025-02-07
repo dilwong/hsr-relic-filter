@@ -6,6 +6,13 @@ Acheron,Feet,SPD
 Acheron,Planar Sphere,ATK%
 Acheron,Planar Sphere,Lightning DMG Boost
 Acheron,Link Rope,ATK%
+Aglaea,Body,CRIT DMG
+Aglaea,Body,CRIT Rate
+Aglaea,Feet,ATK%
+Aglaea,Feet,SPD
+Aglaea,Planar Sphere,Lightning DMG Boost
+Aglaea,Link Rope,ATK%
+Aglaea,Link Rope,Energy Regeneration Rate
 Argenti,Body,CRIT DMG
 Argenti,Body,CRIT Rate
 Argenti,Feet,ATK%
