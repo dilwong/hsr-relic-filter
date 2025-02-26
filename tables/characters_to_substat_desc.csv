@@ -60,6 +60,7 @@ Trailblazer • Destruction,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >=
 Trailblazer • Harmony,SPD = Break Effect% > HP% = DEF%
 Trailblazer • Preservation,Effect RES until 30% (if running Broken Keel) > Speed > DEF% > HP% > Effect Hit Rate
 Trailblazer • Remembrance,SPD > CRIT DMG > Effect RES (until 30% with Broken Keel)
+Tribbie,SPD (Until desired breakpoint and only if playing Fast Tribbie) > CRIT RATE = CRIT DMG > HP%
 Welt,SPD (breakpoint) = EHR% (Until recommended) > CRIT RATE = CRIT DMG > ATK%
 Xueyi,SPD (breakpoint) > BREAK EFFECT% >= CRIT RATE = CRIT DMG > ATK%
 Yanqing,SPD (breakpoint) > CRIT RATE (Until soft cap) = CRIT DMG > ATK% > CRIT RATE (After soft cap)
