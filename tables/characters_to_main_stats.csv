@@ -237,6 +237,13 @@ Moze,Body,CRIT Rate
 Moze,Feet,ATK%
 Moze,Planar Sphere,Lightning DMG Boost
 Moze,Link Rope,ATK%
+Mydei,Body,CRIT DMG
+Mydei,Body,HP%
+Mydei,Feet,HP%
+Mydei,Feet,SPD
+Mydei,Planar Sphere,HP%
+Mydei,Planar Sphere,Imaginary DMG Boost
+Mydei,Link Rope,HP%
 Natasha,Body,HP%
 Natasha,Body,Outgoing Healing Boost
 Natasha,Feet,SPD
