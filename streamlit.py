@@ -1,49 +1,8 @@
 import streamlit as st
-from streamlit.components.v1 import html
 import pandas as pd
-
 from urllib.parse import urljoin
 
 st.set_page_config(layout='wide')
-
-hide_streamlit_style = """
-                <style>
-                div[data-testid="stToolbar"] {
-                visibility: hidden;
-                height: 0%;
-                position: fixed;
-                }
-                div[data-testid="stDecoration"] {
-                visibility: hidden;
-                height: 0%;
-                position: fixed;
-                }
-                div[data-testid="stStatusWidget"] {
-                visibility: hidden;
-                height: 0%;
-                position: fixed;
-                }
-                #MainMenu {
-                visibility: hidden;
-                height: 0%;
-                }
-                header {
-                visibility: hidden;
-                height: 0%;
-                }
-                footer {
-                visibility: hidden;
-                height: 0%;
-                }
-                </style>
-                """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
-
-html('''
-    <script>
-    window.top.document.querySelectorAll(`[href*="streamlit.io"]`).forEach(e => e.setAttribute("style", "display: none;"));
-    </script>
-''')
 
 st.subheader('HSR Relic Filter Tool')
 
@@ -202,5 +161,5 @@ with col4:
         st.subheader(character)
         character_img_url = f'{urljoin(url, characters_to_imgs[character])}'
         character_url = f'{urljoin(url, characters_to_urls[character])}'
-        st.markdown(f'<a href={character_url}><img src="{character_img_url}" width="100" height="100"></a>', unsafe_allow_html=True)
+        st.markdown(f'<a href="{character_url}"><img src="{character_img_url}" width="100" height="100"></a>', unsafe_allow_html=True)
         st.text(f'Substats: {characters_to_substat_desc[character]}')
