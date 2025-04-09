@@ -69,6 +69,12 @@ Bronya,Feet,SPD
 Bronya,Planar Sphere,DEF%
 Bronya,Planar Sphere,HP%
 Bronya,Link Rope,Energy Regeneration Rate
+Castorice,Body,CRIT DMG
+Castorice,Body,HP%
+Castorice,Feet,HP%
+Castorice,Planar Sphere,HP%
+Castorice,Planar Sphere,Quantum DMG Boost
+Castorice,Link Rope,HP%
 Clara,Body,CRIT DMG
 Clara,Body,CRIT Rate
 Clara,Feet,ATK%
