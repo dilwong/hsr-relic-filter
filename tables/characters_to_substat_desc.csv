@@ -26,6 +26,7 @@ Herta,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Himeko,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Hook,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Huohuo,SPD (breakpoint) > HP% > EFF RES% = DEF%
+Hyacine,SPD to 200 or more > HP% > CRIT DMG >= Effect RES
 Dan Heng • Imbibitor Lunae,CRIT RATE = CRIT DMG > ATK% 
 Jade,CRIT RATE >= CRIT DMG > ATK% > SPD
 Jiaoqiu,EHR (Until 140%) > SPD > ATK%
