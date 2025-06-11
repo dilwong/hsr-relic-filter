@@ -12,6 +12,7 @@ Blade,SPD (breakpoint) > CRIT RATE = CRIT DMG > HP%
 Boothill,SPD (Until breakpoint OR if you got nothing else to stack) >= Break Effect
 Bronya,SPD (Until breakpoint) > CRIT DMG > HP = DEF > Effect RES% (30% If Keel)
 Castorice,CRIT DMG = CRIT Rate > HP% > SPD (Less than 95)
+Cipher,[SPD (Until Desired Breakpoint) > EHR (If Desired) > CRIT RATE = CRIT DMG > ATK%] or [SPD (Until Desired Breakpoint) > EHR (If Desired) > HP% >= DEF%]
 Clara,SPD (breakpoint if desired) = CRIT RATE = CRIT DMG > ATK%
 Dan Heng,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Dr. Ratio,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%

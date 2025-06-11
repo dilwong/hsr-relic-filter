@@ -51,6 +51,13 @@ Castorice,CRIT DMG
 Castorice,CRIT Rate
 Castorice,HP%
 Castorice,SPD
+Cipher,ATK%
+Cipher,CRIT DMG
+Cipher,CRIT Rate
+Cipher,DEF%
+Cipher,Effect Hit Rate
+Cipher,HP%
+Cipher,SPD
 Clara,ATK%
 Clara,CRIT DMG
 Clara,CRIT Rate

@@ -131,7 +131,12 @@ for character in characters_to_soups:
 
     character_name = soup.select('div.character-top strong')[0].get_text()
 
-    all_relics = set(img_tag.get('alt', '') for build_relics_div in soup.find_all('div', class_='build-relics') for img_tag in build_relics_div.find_all('img'))
+    all_relics = {
+        img.get('alt', '')
+        for div in soup.find_all('div', class_='build-relics')
+        if not div.find('h6', string=re.compile(r'light cone', re.IGNORECASE))
+        for img in div.find_all('img')
+    }
     all_relics.discard('')
     characters_to_relics[character_name] = all_relics
 
