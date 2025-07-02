@@ -54,6 +54,7 @@ Bailu,Planar Sphere,HP%
 Bailu,Link Rope,Energy Regeneration Rate
 Black Swan,Body,ATK%
 Black Swan,Body,Effect Hit Rate
+Black Swan,Feet,ATK%
 Black Swan,Feet,SPD
 Black Swan,Planar Sphere,ATK%
 Black Swan,Planar Sphere,Wind DMG Boost
@@ -204,16 +205,19 @@ Jing Yuan,Planar Sphere,ATK%
 Jing Yuan,Planar Sphere,Lightning DMG Boost
 Jing Yuan,Link Rope,ATK%
 Jingliu,Body,CRIT DMG
-Jingliu,Feet,ATK%
+Jingliu,Body,HP%
+Jingliu,Feet,HP%
 Jingliu,Feet,SPD
-Jingliu,Planar Sphere,ATK%
+Jingliu,Planar Sphere,HP%
 Jingliu,Planar Sphere,Ice DMG Boost
-Jingliu,Link Rope,ATK%
+Jingliu,Link Rope,HP%
 Kafka,Body,ATK%
+Kafka,Body,Effect Hit Rate
 Kafka,Feet,SPD
 Kafka,Planar Sphere,ATK%
 Kafka,Planar Sphere,Lightning DMG Boost
 Kafka,Link Rope,ATK%
+Kafka,Link Rope,Energy Regeneration Rate
 Lingsha,Body,Outgoing Healing Boost
 Lingsha,Feet,SPD
 Lingsha,Planar Sphere,ATK%
@@ -280,6 +284,13 @@ Pela,Feet,SPD
 Pela,Planar Sphere,DEF%
 Pela,Planar Sphere,HP%
 Pela,Link Rope,Energy Regeneration Rate
+Phainon,Body,CRIT DMG
+Phainon,Body,CRIT Rate
+Phainon,Feet,ATK%
+Phainon,Feet,SPD
+Phainon,Planar Sphere,ATK%
+Phainon,Planar Sphere,Physical DMG Boost
+Phainon,Link Rope,ATK%
 Qingque,Body,CRIT DMG
 Qingque,Body,CRIT Rate
 Qingque,Feet,ATK%
@@ -326,9 +337,8 @@ Serval,Link Rope,ATK%
 Silver Wolf,Body,CRIT Rate
 Silver Wolf,Body,Effect Hit Rate
 Silver Wolf,Feet,SPD
-Silver Wolf,Planar Sphere,HP%
+Silver Wolf,Planar Sphere,ATK%
 Silver Wolf,Planar Sphere,Quantum DMG Boost
-Silver Wolf,Link Rope,ATK%
 Silver Wolf,Link Rope,Energy Regeneration Rate
 Sparkle,Body,CRIT DMG
 Sparkle,Feet,SPD

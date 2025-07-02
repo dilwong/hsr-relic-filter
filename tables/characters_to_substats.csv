@@ -135,12 +135,11 @@ Jing Yuan,ATK%
 Jing Yuan,CRIT DMG
 Jing Yuan,CRIT Rate
 Jing Yuan,SPD
-Jingliu,ATK%
 Jingliu,CRIT DMG
 Jingliu,CRIT Rate
+Jingliu,HP%
 Jingliu,SPD
 Kafka,ATK%
-Kafka,Break Effect
 Kafka,Effect Hit Rate
 Kafka,SPD
 Lingsha,ATK%
@@ -188,6 +187,10 @@ Pela,Effect Hit Rate
 Pela,Effect Res
 Pela,HP%
 Pela,SPD
+Phainon,ATK%
+Phainon,CRIT DMG
+Phainon,CRIT Rate
+Phainon,SPD
 Qingque,ATK%
 Qingque,CRIT DMG
 Qingque,CRIT Rate
@@ -215,11 +218,9 @@ Serval,ATK%
 Serval,CRIT DMG
 Serval,CRIT Rate
 Serval,SPD
-Silver Wolf,Break Effect
-Silver Wolf,DEF%
+Silver Wolf,ATK%
+Silver Wolf,CRIT DMG
 Silver Wolf,Effect Hit Rate
-Silver Wolf,Effect Res
-Silver Wolf,HP%
 Silver Wolf,SPD
 Sparkle,CRIT DMG
 Sparkle,DEF%

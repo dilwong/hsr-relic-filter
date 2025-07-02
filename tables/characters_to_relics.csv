@@ -9,6 +9,7 @@ Acheron,Prisoner in Deep Confinement
 Acheron,Scholar Lost in Erudition
 Acheron,Space Sealing Station
 Acheron,The Wind-Soaring Valorous
+Aglaea,Arcadia of Woven Dreams
 Aglaea,Band of Sizzling Thunder
 Aglaea,Firmament Frontline: Glamoth
 Aglaea,Hero of Triumphant Song
@@ -76,21 +77,22 @@ Bailu,Messenger Traversing Hackerspace
 Bailu,Passerby of Wandering Cloud
 Bailu,"Penacony, Land of the Dreams"
 Bailu,Sacerdos' Relived Ordeal
+Bailu,Warrior Goddess of Sun and Thunder
 Black Swan,Eagle of Twilight Line
 Black Swan,Firmament Frontline: Glamoth
 Black Swan,Musketeer of Wild Wheat
 Black Swan,Pan-Cosmic Commercial Enterprise
 Black Swan,Pioneer Diver of Dead Waters
 Black Swan,Prisoner in Deep Confinement
+Black Swan,Revelry by the Sea
 Black Swan,Space Sealing Station
 Blade,Bone Collection's Serene Demesne
 Blade,Eagle of Twilight Line
 Blade,Inert Salsotto
-Blade,Izumo Gensei and Takama Divine Realm
 Blade,Longevous Disciple
-Blade,Musketeer of Wild Wheat
 Blade,Rutilant Arena
 Blade,Scholar Lost in Erudition
+Blade,Wavestrider Captain
 Boothill,Eagle of Twilight Line
 Boothill,Forge of the Kalpagni Lantern
 Boothill,Iron Cavalry Against the Scourge
@@ -189,6 +191,7 @@ Fu Xuan,"Lushaka, the Sunken Seas"
 Fu Xuan,Messenger Traversing Hackerspace
 Fu Xuan,"Penacony, Land of the Dreams"
 Fu Xuan,Sacerdos' Relived Ordeal
+Fu Xuan,Warrior Goddess of Sun and Thunder
 Gallagher,Broken Keel
 Gallagher,Fleet of the Ageless
 Gallagher,Forge of the Kalpagni Lantern
@@ -201,6 +204,7 @@ Gallagher,"Penacony, Land of the Dreams"
 Gallagher,Sacerdos' Relived Ordeal
 Gallagher,Talia: Kingdom of Banditry
 Gallagher,Thief of Shooting Meteor
+Gallagher,Warrior Goddess of Sun and Thunder
 Gallagher,"Watchmaker, Master of Dream Machinations"
 Gepard,Belobog of the Architects
 Gepard,Broken Keel
@@ -273,6 +277,7 @@ Huohuo,Passerby of Wandering Cloud
 Huohuo,"Penacony, Land of the Dreams"
 Huohuo,Sacerdos' Relived Ordeal
 Huohuo,Sprightly Vonwacq
+Huohuo,Warrior Goddess of Sun and Thunder
 Hyacine,Broken Keel
 Hyacine,Giant Tree of Rapt Brooding
 Hyacine,"Lushaka, the Sunken Seas"
@@ -313,24 +318,25 @@ Jing Yuan,Scholar Lost in Erudition
 Jing Yuan,The Ashblazing Grand Duke
 Jing Yuan,The Wind-Soaring Valorous
 Jing Yuan,The Wondrous BananAmusement Park
-Jingliu,Firmament Frontline: Glamoth
+Jingliu,Bone Collection's Serene Demesne
 Jingliu,Genius of Brilliant Stars
 Jingliu,Hunter of Glacial Forest
 Jingliu,Inert Salsotto
-Jingliu,Musketeer of Wild Wheat
-Jingliu,Pioneer Diver of Dead Waters
-Jingliu,Prisoner in Deep Confinement
+Jingliu,Longevous Disciple
 Jingliu,Rutilant Arena
 Jingliu,Scholar Lost in Erudition
-Jingliu,Space Sealing Station
-Jingliu,The Wind-Soaring Valorous
 Kafka,Band of Sizzling Thunder
+Kafka,Eagle of Twilight Line
 Kafka,Firmament Frontline: Glamoth
-Kafka,Musketeer of Wild Wheat
+Kafka,"Lushaka, the Sunken Seas"
+Kafka,Messenger Traversing Hackerspace
+Kafka,Pan-Cosmic Commercial Enterprise
 Kafka,Pioneer Diver of Dead Waters
 Kafka,Prisoner in Deep Confinement
-Kafka,Space Sealing Station
-Kafka,The Wind-Soaring Valorous
+Kafka,Revelry by the Sea
+Kafka,Sacerdos' Relived Ordeal
+Kafka,The Ashblazing Grand Duke
+Kafka,Warrior Goddess of Sun and Thunder
 Lingsha,Broken Keel
 Lingsha,Fleet of the Ageless
 Lingsha,Forge of the Kalpagni Lantern
@@ -344,6 +350,7 @@ Lingsha,Sacerdos' Relived Ordeal
 Lingsha,Sprightly Vonwacq
 Lingsha,Talia: Kingdom of Banditry
 Lingsha,Thief of Shooting Meteor
+Lingsha,Warrior Goddess of Sun and Thunder
 Lingsha,"Watchmaker, Master of Dream Machinations"
 Luka,Champion of Streetwise Boxing
 Luka,Firmament Frontline: Glamoth
@@ -364,6 +371,7 @@ Luocha,"Penacony, Land of the Dreams"
 Luocha,Prisoner in Deep Confinement
 Luocha,Sacerdos' Relived Ordeal
 Luocha,The Wind-Soaring Valorous
+Luocha,Warrior Goddess of Sun and Thunder
 Lynx,Broken Keel
 Lynx,Fleet of the Ageless
 Lynx,Giant Tree of Rapt Brooding
@@ -373,6 +381,7 @@ Lynx,Messenger Traversing Hackerspace
 Lynx,Passerby of Wandering Cloud
 Lynx,"Penacony, Land of the Dreams"
 Lynx,Sacerdos' Relived Ordeal
+Lynx,Warrior Goddess of Sun and Thunder
 March 7th,Belobog of the Architects
 March 7th,Broken Keel
 March 7th,Fleet of the Ageless
@@ -429,6 +438,7 @@ Natasha,Messenger Traversing Hackerspace
 Natasha,Passerby of Wandering Cloud
 Natasha,"Penacony, Land of the Dreams"
 Natasha,Sacerdos' Relived Ordeal
+Natasha,Warrior Goddess of Sun and Thunder
 Pela,Broken Keel
 Pela,Eagle of Twilight Line
 Pela,Fleet of the Ageless
@@ -437,6 +447,16 @@ Pela,Messenger Traversing Hackerspace
 Pela,"Penacony, Land of the Dreams"
 Pela,Sacerdos' Relived Ordeal
 Pela,Sprightly Vonwacq
+Phainon,Arcadia of Woven Dreams
+Phainon,Champion of Streetwise Boxing
+Phainon,Genius of Brilliant Stars
+Phainon,Hero of Triumphant Song
+Phainon,Musketeer of Wild Wheat
+Phainon,Poet of Mourning Collapse
+Phainon,Rutilant Arena
+Phainon,Scholar Lost in Erudition
+Phainon,The Wind-Soaring Valorous
+Phainon,Wavestrider Captain
 Qingque,Firmament Frontline: Glamoth
 Qingque,Genius of Brilliant Stars
 Qingque,Inert Salsotto
@@ -478,6 +498,7 @@ Sampo,Musketeer of Wild Wheat
 Sampo,Pan-Cosmic Commercial Enterprise
 Sampo,Pioneer Diver of Dead Waters
 Sampo,Prisoner in Deep Confinement
+Sampo,Revelry by the Sea
 Sampo,Space Sealing Station
 Sampo,The Wind-Soaring Valorous
 Seele,Firmament Frontline: Glamoth
@@ -500,16 +521,18 @@ Serval,Rutilant Arena
 Serval,Scholar Lost in Erudition
 Serval,Space Sealing Station
 Serval,The Wind-Soaring Valorous
-Silver Wolf,Broken Keel
 Silver Wolf,Eagle of Twilight Line
-Silver Wolf,Fleet of the Ageless
+Silver Wolf,Firmament Frontline: Glamoth
 Silver Wolf,Genius of Brilliant Stars
+Silver Wolf,Inert Salsotto
 Silver Wolf,"Lushaka, the Sunken Seas"
 Silver Wolf,Messenger Traversing Hackerspace
-Silver Wolf,Pan-Cosmic Commercial Enterprise
 Silver Wolf,"Penacony, Land of the Dreams"
+Silver Wolf,Pioneer Diver of Dead Waters
 Silver Wolf,Sacerdos' Relived Ordeal
+Silver Wolf,Scholar Lost in Erudition
 Silver Wolf,Sprightly Vonwacq
+Silver Wolf,Warrior Goddess of Sun and Thunder
 Sparkle,Broken Keel
 Sparkle,Eagle of Twilight Line
 Sparkle,Fleet of the Ageless

@@ -8,7 +8,7 @@ Asta,SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If using Broken Keel)
 Aventurine,DEF% (aim for 4k) >= SPD > CRIT DMG > CRIT Rate > Effect RES
 Bailu,SPD (breakpoint) > HP% > EFF RES% = DEF%
 Black Swan,EHR (Until 100-120%) > SPD (Until breakpoint) > ATK% > Break Effect
-Blade,SPD (breakpoint) > CRIT RATE = CRIT DMG > HP%
+Blade,SPD (Until Desired Breakpoint) > CRIT Rate = CRIT DMG > HP%
 Boothill,SPD (Until breakpoint OR if you got nothing else to stack) >= Break Effect
 Bronya,SPD (Until breakpoint) > CRIT DMG > HP = DEF > Effect RES% (30% If Keel)
 Castorice,CRIT DMG = CRIT Rate > HP% > SPD (Less than 95)
@@ -32,8 +32,8 @@ Dan Heng • Imbibitor Lunae,CRIT RATE = CRIT DMG > ATK%
 Jade,CRIT RATE >= CRIT DMG > ATK% > SPD
 Jiaoqiu,EHR (Until 140%) > SPD > ATK%
 Jing Yuan,Speed (Until breakpoint to make -1 Speed setup work) > CRIT RATE = CRIT DMG > ATK%
-Jingliu,SPD (breakpoint) > CRIT RATE (until 50%) = CRIT DMG > ATK%
-Kafka,SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect
+Jingliu, SPD (Until Desired Breakpoint) > CRIT Rate (Until 100% Buffed) > HP% > CRIT DMG
+Kafka,Effect Hit Rate (Until 75%) > SPD > ATK%
 Lingsha,SPD (until the desired breakpoint) > BREAK% >= ATK%
 Luka,SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK% 
 Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
@@ -46,6 +46,7 @@ Moze,SPD (only if needed for your team) = CRIT RATE >= CRIT DMG > ATK%
 Mydei,HP% (Best until 8k then equal) >= CRIT Rate/CRIT DMG
 Natasha,SPD (breakpoint) > HP% > Effect RES = DEF%
 Pela,Effect Hit Rate (Until 67%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)
+Phainon,SPD (if needed) > CRIT RATE > CRIT DMG > ATK%
 Qingque,SPD (breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Rappa,SPD (Until Desired Breakpoint) > Break Effect > ATK%
 Robin,ATK% >= SPD > HP% = DEF%
@@ -53,7 +54,7 @@ Ruan Mei,Break Effect (Until 180%) > SPD (Until Breakpoint) > HP% = DEF% > Effec
 Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
 Seele,CRIT RATE = CRIT DMG > ATK%
 Serval,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
-Silver Wolf,EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)
+Silver Wolf,Effect Hit Rate (Until 50-67%) > SPD > CRIT = CRIT DMG > ATK%
 Sparkle,SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = EFF RES% (30% if using Broken Keel)
 Sunday,SPD (Until desired speed build) > CRIT DMG > EFF RES% > DEF% = HP%
 Sushang,SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%
