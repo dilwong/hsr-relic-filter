@@ -11,6 +11,9 @@ Anaxa,ATK%
 Anaxa,CRIT DMG
 Anaxa,CRIT Rate
 Anaxa,SPD
+Archer,ATK%
+Archer,CRIT DMG
+Archer,CRIT Rate
 Argenti,ATK%
 Argenti,CRIT DMG
 Argenti,CRIT Rate
@@ -207,6 +210,10 @@ Ruan Mei,DEF%
 Ruan Mei,Effect Res
 Ruan Mei,HP%
 Ruan Mei,SPD
+Saber,ATK%
+Saber,CRIT DMG
+Saber,CRIT Rate
+Saber,SPD
 Sampo,ATK%
 Sampo,Break Effect
 Sampo,Effect Hit Rate

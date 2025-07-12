@@ -20,6 +20,11 @@ Anaxa,Planar Sphere,ATK%
 Anaxa,Planar Sphere,Wind DMG Boost
 Anaxa,Link Rope,ATK%
 Anaxa,Link Rope,Energy Regeneration Rate
+Archer,Body,CRIT Rate
+Archer,Feet,ATK%
+Archer,Planar Sphere,ATK%
+Archer,Planar Sphere,Quantum DMG Boost
+Archer,Link Rope,ATK%
 Argenti,Body,CRIT DMG
 Argenti,Body,CRIT Rate
 Argenti,Feet,ATK%
@@ -314,6 +319,13 @@ Ruan Mei,Planar Sphere,DEF%
 Ruan Mei,Planar Sphere,HP%
 Ruan Mei,Link Rope,Break Effect
 Ruan Mei,Link Rope,Energy Regeneration Rate
+Saber,Body,CRIT DMG
+Saber,Body,CRIT Rate
+Saber,Feet,ATK%
+Saber,Feet,SPD
+Saber,Planar Sphere,ATK%
+Saber,Planar Sphere,Wind DMG Boost
+Saber,Link Rope,ATK%
 Sampo,Body,ATK%
 Sampo,Body,Effect Hit Rate
 Sampo,Feet,ATK%

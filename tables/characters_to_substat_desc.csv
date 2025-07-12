@@ -2,6 +2,7 @@ Character,Substat INFO
 Acheron,"SPD (breakpoint if you play 134+ Acheron; with Sparkle, fully ignore Speed) > CRIT RATE = CRIT DMG > ATK%"
 Aglaea,SPD (Until Desired Breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Anaxa,SPD (Until Desired Breakpoint) > CRIT RATE > CRIT DMG > ATK%
+Archer,CRIT Rate (Until 100% with buffs) > CRIT DMG > ATK%
 Argenti,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Arlan,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Asta,SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If using Broken Keel)
@@ -51,6 +52,7 @@ Qingque,SPD (breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Rappa,SPD (Until Desired Breakpoint) > Break Effect > ATK%
 Robin,ATK% >= SPD > HP% = DEF%
 Ruan Mei,Break Effect (Until 180%) > SPD (Until Breakpoint) > HP% = DEF% > Effect RES (30% if using Broken Keel)
+Saber,SPD (Until Desired Breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Sampo,SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect
 Seele,CRIT RATE = CRIT DMG > ATK%
 Serval,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
