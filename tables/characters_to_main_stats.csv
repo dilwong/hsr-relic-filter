@@ -185,6 +185,14 @@ Hyacine,Body,Outgoing Healing Boost
 Hyacine,Feet,SPD
 Hyacine,Planar Sphere,HP%
 Hyacine,Link Rope,Energy Regeneration Rate
+Hysilens,Body,ATK%
+Hysilens,Body,Effect Hit Rate
+Hysilens,Feet,ATK%
+Hysilens,Feet,SPD
+Hysilens,Planar Sphere,ATK%
+Hysilens,Planar Sphere,Physical DMG Boost
+Hysilens,Link Rope,ATK%
+Hysilens,Link Rope,Energy Regeneration Rate
 Dan Heng • Imbibitor Lunae,Body,CRIT DMG
 Dan Heng • Imbibitor Lunae,Body,CRIT Rate
 Dan Heng • Imbibitor Lunae,Feet,ATK%

@@ -8,7 +8,7 @@ Arlan,SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Asta,SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If using Broken Keel)
 Aventurine,DEF% (aim for 4k) >= SPD > CRIT DMG > CRIT Rate > Effect RES
 Bailu,SPD (breakpoint) > HP% > EFF RES% = DEF%
-Black Swan,EHR (Until 100-120%) > SPD (Until breakpoint) > ATK% > Break Effect
+Black Swan,EHR (Until 100-120%) > SPD (Until breakpoint) > ATK%
 Blade,SPD (Until Desired Breakpoint) > CRIT Rate = CRIT DMG > HP%
 Boothill,SPD (Until breakpoint OR if you got nothing else to stack) >= Break Effect
 Bronya,SPD (Until breakpoint) > CRIT DMG > HP = DEF > Effect RES% (30% If Keel)
@@ -29,6 +29,7 @@ Himeko,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Hook,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Huohuo,SPD (breakpoint) > HP% > EFF RES% = DEF%
 Hyacine,SPD to 200 or more > HP% > CRIT DMG >= Effect RES
+Hysilens,Effect Hit Rate to 120% =  SPD (Until Desired Breakpoint) > ATK%
 Dan Heng • Imbibitor Lunae,CRIT RATE = CRIT DMG > ATK% 
 Jade,CRIT RATE >= CRIT DMG > ATK% > SPD
 Jiaoqiu,EHR (Until 140%) > SPD > ATK%

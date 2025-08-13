@@ -36,7 +36,6 @@ Bailu,Effect Res
 Bailu,HP%
 Bailu,SPD
 Black Swan,ATK%
-Black Swan,Break Effect
 Black Swan,Effect Hit Rate
 Black Swan,SPD
 Blade,CRIT DMG
@@ -127,6 +126,9 @@ Hyacine,CRIT DMG
 Hyacine,Effect Res
 Hyacine,HP%
 Hyacine,SPD
+Hysilens,ATK%
+Hysilens,Effect Hit Rate
+Hysilens,SPD
 Jade,ATK%
 Jade,CRIT DMG
 Jade,CRIT Rate
