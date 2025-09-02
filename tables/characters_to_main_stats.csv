@@ -88,6 +88,12 @@ Castorice,Feet,HP%
 Castorice,Planar Sphere,HP%
 Castorice,Planar Sphere,Quantum DMG Boost
 Castorice,Link Rope,HP%
+Cerydra,Body,ATK%
+Cerydra,Feet,ATK%
+Cerydra,Feet,SPD
+Cerydra,Planar Sphere,ATK%
+Cerydra,Link Rope,ATK%
+Cerydra,Link Rope,Energy Regeneration Rate
 Cipher,Body,CRIT DMG
 Cipher,Body,Effect Hit Rate
 Cipher,Feet,SPD
