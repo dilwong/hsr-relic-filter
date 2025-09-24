@@ -42,6 +42,7 @@ Luka,SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK%
 Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
 Lynx,SPD (breakpoint) > HP% > Effect RES > DEF%
 March 7th,Effect Hit Rate (Until 64% OR skip if no Freeze build) = SPD (Breakpoint) > DEF% > HP% = Effect RES
+March 7th • Evernight,CRIT Rate (Until cap) = CRIT DMG > HP% > SPD
 March 7th • The Hunt,"SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%
 SPD (Until breakpoint) > BREAK EFFECT%"
 Misha,SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%

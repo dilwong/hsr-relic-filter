@@ -54,6 +54,8 @@ Sacerdos' Relived Ordeal,"(2) Increases SPD by 6%.
 (4) When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by 18%, lasting for 2 turn(s). This effect can stack up to 2 time(s)."
 Scholar Lost in Erudition,"(2) Increases CRIT Rate by 8%.
 (4) Increases DMG dealt by Skill and Ultimate by 20%. After using Ultimate, additionally increases the DMG dealt by the next Skill by 25%."
+Self-Enshrouded Recluse,"(2) Increases Shield Effect by 10%.
+(4) Increases Shield Effect provided by the wearer by 12%. When an ally target has a Shield provided by the wearer, the ally target's CRIT DMG increases by 15%."
 "Sigonia, the Unclaimed Desolation","(2) Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s)."
 Space Sealing Station,"(2) Increases the wearer's ATK by 12%. When the wearer's SPD reaches 120 or higher, the wearer's ATK increases by an extra 12%."
 Sprightly Vonwacq,"(2) Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle."
@@ -73,3 +75,5 @@ Wastelander of Banditry Desert,"(2) Increases Imaginary DMG by 10%.
 (4) When the wearer uses their Ultimate on an ally, Break Effect for all allies increases by 30% for 2 turn(s). This effect cannot be stacked."
 Wavestrider Captain,"(2) Increases CRIT DMG by 16%.
 (4) When the wearer becomes the target of another ally target's ability, gains 1 stack of ""Help,"" stacking up to 2 time(s). If there are 2 stack(s) of ""Help"" when the wearer uses their Ultimate, consumes all ""Help"" to increase the wearer's ATK by 48% for 1 turn(s)."
+World-Remaking Deliverer,"(2) Increases CRIT Rate by 8%.
+(4) After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by 24%, and increases all allies' DMG by 15% until the wearer's next Basic ATK or Skill."
