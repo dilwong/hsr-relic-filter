@@ -17,6 +17,7 @@ Cerydra,SPD (Until Desired Speed Build) > ATK% > ATK > Defensive Stats
 Cipher,[SPD (Until Desired Breakpoint) > EHR (If Desired) > CRIT RATE = CRIT DMG > ATK%] or [SPD (Until Desired Breakpoint) > EHR (If Desired) > HP% >= DEF%]
 Clara,SPD (breakpoint if desired) = CRIT RATE = CRIT DMG > ATK%
 Dan Heng,SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%
+Dan Heng • Permansor Terrae,SPD (until desired breakpoint) > ATK% > ATK > Effect RES
 Dr. Ratio,SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%
 Feixiao,SPD (Until Desired Breakpoint) = CRIT RATE = CRIT DMG > ATK%
 Firefly,SPD (Until Breakpoint) > Break Effect% > ATK%
@@ -43,8 +44,7 @@ Luocha,SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%
 Lynx,SPD (breakpoint) > HP% > Effect RES > DEF%
 March 7th,Effect Hit Rate (Until 64% OR skip if no Freeze build) = SPD (Breakpoint) > DEF% > HP% = Effect RES
 March 7th • Evernight,CRIT Rate (Until cap) = CRIT DMG > HP% > SPD
-March 7th • The Hunt,"SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%
-SPD (Until breakpoint) > BREAK EFFECT%"
+March 7th • The Hunt,SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%
 Misha,SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%
 Moze,SPD (only if needed for your team) = CRIT RATE >= CRIT DMG > ATK%
 Mydei,HP% (Best until 8k then equal) >= CRIT Rate/CRIT DMG

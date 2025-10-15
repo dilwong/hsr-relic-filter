@@ -114,6 +114,11 @@ Dan Heng,Feet,SPD
 Dan Heng,Planar Sphere,ATK%
 Dan Heng,Planar Sphere,Wind DMG Boost
 Dan Heng,Link Rope,ATK%
+Dan Heng • Permansor Terrae,Body,ATK%
+Dan Heng • Permansor Terrae,Feet,ATK%
+Dan Heng • Permansor Terrae,Feet,SPD
+Dan Heng • Permansor Terrae,Planar Sphere,ATK%
+Dan Heng • Permansor Terrae,Link Rope,Energy Regeneration Rate
 Dr. Ratio,Body,CRIT DMG
 Dr. Ratio,Body,CRIT Rate
 Dr. Ratio,Feet,ATK%
@@ -279,7 +284,6 @@ March 7th • The Hunt,Feet,SPD
 March 7th • The Hunt,Planar Sphere,ATK%
 March 7th • The Hunt,Planar Sphere,Imaginary DMG Boost
 March 7th • The Hunt,Link Rope,ATK%
-March 7th • The Hunt,Link Rope,Break Effect
 Misha,Body,CRIT DMG
 Misha,Body,CRIT Rate
 Misha,Feet,ATK%
